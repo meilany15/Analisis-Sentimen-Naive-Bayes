@@ -1,0 +1,740 @@
+content,hasil_stopword,hasil_stemming
+Terimakasih!!!!!!!!!!!!!,['terimakasih'],['terimakasih']
+Mantap betul lah,['mantap'],['mantap']
+Sangat mudah diakses,"['mudah', 'diakses']","['mudah', 'akses']"
+Anda mesti bertanggung jawab atas semua kebocoran data pribadi pejabat dan pribadi warga,"['mesti', 'bertanggung', 'kebocoran', 'data', 'pribadi', 'pejabat', 'pribadi', 'warga']","['mesti', 'tanggung', 'bocor', 'data', 'pribadi', 'jabat', 'pribadi', 'warga']"
+Sangat aman,['aman'],['aman']
+Mantap,['mantap'],['mantap']
+"aplikasinya diconect dg daftar antrian online di rumah sakit yg skrg masing2 rs punya sistem. baik daftar kunjungan atau antrian obat2an resep, biar lebih cepat dn tinggal ambil. atau bahkan bs diantar","['aplikasinya', 'daftar', 'antrian', 'online', 'rumah', 'sakit', 'sistem', 'daftar', 'kunjungan', 'antrian', 'obatan', 'resep', 'cepat', 'tinggal', 'ambil', 'diantar']","['aplikasi', 'daftar', 'antri', 'online', 'rumah', 'sakit', 'sistem', 'daftar', 'kunjung', 'antri', 'obat', 'resep', 'cepat', 'tinggal', 'ambil', 'antar']"
+"Setelah di update kenapa serifikat gak bisa muncul , solusinya gimna ini","['muncul', 'solusinya']","['muncul', 'solusi']"
+Mantap,['mantap'],['mantap']
+Cepat akurat,"['cepat', 'akurat']","['cepat', 'akurat']"
+ora niat rasah gawe apliksi,['niat'],['niat']
+Terlalu sering update menghabiskan beberapa ruang di hp,"['menghabiskan', 'ruang']","['habis', 'ruang']"
+Apk ..bodoh yg buat .terllu sering pembaharuan....,"['bodoh', 'pembaharuan']","['bodoh', 'baharu']"
+Merumitkan,['merumitkan'],['rumit']
+"Stlh update , data sertifikat vaksin 1 2 3 hilang semua , dianggap blm vaksin , cek di www sama , untung sertifikat 1 2 msh sempet di screen reco. Sdh hps memori jg data aplikasi relogin sama sj ... mhn sgrdi perbaiki krn di pake u ke mn2","['data', 'sertifikat', 'vaksin', 'hilang', 'dianggap', 'vaksin', 'sertifikat', 'memori', 'data', 'aplikasi', 'perbaiki']","['data', 'sertifikat', 'vaksin', 'hilang', 'anggap', 'vaksin', 'sertifikat', 'memori', 'data', 'aplikasi', 'baik']"
+"Pembaruan terus,tp tambah ruwet","['pembaruan', 'ruwet']","['baru', 'ruwet']"
+"Kebanyakan bug, sudah vaksin tapi gak ada sertifikat","['vaksin', 'sertifikat']","['vaksin', 'sertifikat']"
+Bagus,['bagus'],['bagus']
+Top,['top'],['top']
+Update trus nambah memorii aja padahal terpaksa aja pake ini aplikasi biar bisa keluar,"['nambah', 'terpaksa', 'aplikasi']","['nambah', 'paksa', 'aplikasi']"
+gabisa liat hasil faksin,['hasil'],['hasil']
+Mempermudah,['mempermudah'],['mudah']
+Cek sertifikat vaksin tidak bisa. tidak muncul apa2 hanya blank putih. Di cek lewat browser juga sama saja.,"['sertifikat', 'vaksin', 'muncul', 'putih', 'browser']","['sertifikat', 'vaksin', 'muncul', 'putih', 'browser']"
+Keren bisa vaksin tanpa antri 👍👍,"['keren', 'vaksin', 'antri']","['keren', 'vaksin', 'antri']"
+Diapdet gk bisa2 gimana suruh perbaharuin,"['suruh', 'perbaharuin']","['suruh', 'perbaharuin']"
+"Ni aplikasi napa dah, susah banget buat login","['aplikasi', 'susah']","['aplikasi', 'susah']"
+Sebel loh sering banget eror kalo lagi dibutuhkan begini😭😭 giliran tanya langsung via WA ga di respon,"['dibutuhkan', 'giliran', 'langsung', 'via', 'respon']","['butuh', 'gilir', 'langsung', 'via', 'respon']"
+"Aplikasi ini gak bs d update, maklum deh aplikasi konoha","['aplikasi', 'maklum', 'aplikasi']","['aplikasi', 'maklum', 'aplikasi']"
+Bagus,['bagus'],['bagus']
+Mantap,['mantap'],['mantap']
+Sangat berguna untuk pekerjaan saya,"['berguna', 'pekerjaan']","['guna', 'kerja']"
+Ga jelas perbarui mulu,['perbarui'],['baru']
+Setelah update susah di bukak,['susah'],['susah']
+Terimakasih,['terimakasih'],['terimakasih']
+Mantap,['mantap'],['mantap']
+Sangat mudah digunakan,['mudah'],['mudah']
+Mantap mi,['mantap'],['mantap']
+Bagus,['bagus'],['bagus']
+Updatenya maksa,['maksa'],['maksa']
+Aplikasi bangke,['aplikasi'],['aplikasi']
+Sangat2 membantu,['membantu'],['bantu']
+ga bsa login... gmna ini.. soal ny hp bru.. apa harus daftar ulang. tpi sy sdh pnya acount,"['daftar', 'ulang']","['daftar', 'ulang']"
+Belum ada pengalaman,['pengalaman'],['alam']
+Bagus,['bagus'],['bagus']
+Aplikasi nya pembaruan terus😔😔😔😔,"['aplikasi', 'pembaruan']","['aplikasi', 'baru']"
+Aplikasi update terus,['aplikasi'],['aplikasi']
+"Developer mohon dijawab ,saya dari golongan vaksin gorong royong lalu ingin migrasi ke vaksin pemerintah ,saya vaksin ke-1&2 VGR dan vaksin booster saya vaksin pemerintah ,namun sertifikat vaksin booster saya tidak muncul dipedulilindungi,padahal saya sudah berkonfirmasi dengan pihak biofarma,dan sudah ditangani namun belum juga muncul sertifikat booster nya kenapa yah ??,.mohon dijawab ,terimakasih ,.","['mohon', 'golongan', 'vaksin', 'gorong', 'royong', 'migrasi', 'vaksin', 'pemerintah', 'vaksin', 'vaksin', 'booster', 'vaksin', 'pemerintah', 'sertifikat', 'vaksin', 'booster', 'muncul', 'berkonfirmasi', 'ditangani', 'muncul', 'sertifikat', 'booster', 'mohon', 'terimakasih']","['mohon', 'golong', 'vaksin', 'gorong', 'royong', 'migrasi', 'vaksin', 'perintah', 'vaksin', 'vaksin', 'booster', 'vaksin', 'perintah', 'sertifikat', 'vaksin', 'booster', 'muncul', 'konfirmasi', 'tangan', 'muncul', 'sertifikat', 'booster', 'mohon', 'terimakasih']"
+"Dengan adanya apk peduliLindungi ini, ... Semua jadi mudah dalam penggurusan data² dan ke pentingan lain nya 👍👍👍 Terima kasih semua nya ,,, 🙏 Salam sehat dan ... Bebas covid19","['pedulilindungi', 'mudah', 'penggurusan', 'data', 'pentingan', 'terima', 'kasih', 'salam', 'sehat', 'bebas', 'covid']","['pedulilindungi', 'mudah', 'penggurusan', 'data', 'penting', 'terima', 'kasih', 'salam', 'sehat', 'bebas', 'covid']"
+Terlalu sering minta untuk diperbaharui,['diperbaharui'],['baharu']
+Setelah update kenapa datanya tidak muncul ?,"['datanya', 'muncul']","['data', 'muncul']"
+"Parah, minta di update, giliran di update gak bisa scen huhhhh","['parah', 'giliran']","['parah', 'gilir']"
+"Perbaharui mulu,payah",['perbaharui'],['baharu']
+Cakep aplikasi nya,['aplikasi'],['aplikasi']
+"Baguus sekalii,yg lama sdah kami perbaharui",['perbaharui'],['baharu']
+TERBAIK,['terbaik'],['baik']
+Mantap,['mantap'],['mantap']
+Terpaksa,['terpaksa'],['paksa']
+Mantap,['mantap'],['mantap']
+Kenaapa gak bisa dibuka dan di-update ini,['dibuka'],['buka']
+Trimksih peduli lindundungi sudah membantu dngnnmudah,"['peduli', 'lindundungi', 'membantu']","['peduli', 'lindundungi', 'bantu']"
+Pelayanan baik,['pelayanan'],['layan']
+Sangat membantu,['membantu'],['bantu']
+"Makin kesini banyak banget masalahnya, masa saya gk bisa unduh sertifikat vaksin, padahal aplikasi nya udah di update, gimana sih tolong segera diperbaiki","['unduh', 'sertifikat', 'vaksin', 'aplikasi', 'tolong', 'diperbaiki']","['unduh', 'sertifikat', 'vaksin', 'aplikasi', 'tolong', 'baik']"
+"Aplikasinya selalu berubah, sekarang sertifikat vaksin tidak bisa muncul","['aplikasinya', 'berubah', 'sertifikat', 'vaksin', 'muncul']","['aplikasi', 'ubah', 'sertifikat', 'vaksin', 'muncul']"
+Peduli lindungi is the best,"['peduli', 'lindungi']","['peduli', 'lindung']"
+Ribet cok,['ribet'],['ribet']
+Baik untuk berpergian,['berpergian'],['pergi']
+Pembaruan terus,['pembaruan'],['baru']
+Bagus,['bagus'],['bagus']
+"Setiap buka peduli lindungi untuk scan barcode selalu disuruh update versi baru, terlalu merugikan dan terlalu lama.. Orang buru2 jadi tertunda gara2 disuruh update versi baru trus.. Aplikasi nob","['buka', 'peduli', 'lindungi', 'disuruh', 'versi', 'merugikan', 'tertunda', 'disuruh', 'versi', 'aplikasi']","['buka', 'peduli', 'lindung', 'suruh', 'versi', 'rugi', 'tunda', 'suruh', 'versi', 'aplikasi']"
+"Covid sudah terkontrol, semoga aplikasi ini mayornya menjadi layanan akses kesehatan masyarakat","['covid', 'terkontrol', 'semoga', 'aplikasi', 'mayornya', 'layanan', 'akses', 'kesehatan', 'masyarakat']","['covid', 'kontrol', 'moga', 'aplikasi', 'mayor', 'layan', 'akses', 'sehat', 'masyarakat']"
+Bagus bisa membantu,"['bagus', 'membantu']","['bagus', 'bantu']"
+"Super RIBET SEBENTAR"" PERBARUI TERUS","['super', 'ribet', 'sebentar', 'perbarui']","['super', 'ribet', 'sebentar', 'baru']"
+Setiap saat di perbaru an terus di suruh perbaru dah di perbaru tapi gak bisa di downlot buat repot aja mau ke mana mana pakek seken barkot buat susah aja ni sedangkan apl nya gak bisa di downlot,"['perbaru', 'suruh', 'perbaru', 'perbaru', 'repot', 'susah']","['baru', 'suruh', 'baru', 'baru', 'repot', 'susah']"
+Data saya tidak muncul di aplikasi setelah di update servernya sering down butuh banyak perbaikan bug.,"['data', 'muncul', 'aplikasi', 'servernya', 'butuh', 'perbaikan']","['data', 'muncul', 'aplikasi', 'servernya', 'butuh', 'baik']"
+"Aplikasi gak guna Minta update terus Data bocor , peduli lindungi tapi data gak dilindungi .. gimana pemerintah","['aplikasi', 'data', 'bocor', 'peduli', 'lindungi', 'data', 'dilindungi', 'pemerintah']","['aplikasi', 'data', 'bocor', 'peduli', 'lindung', 'data', 'lindung', 'perintah']"
+Sangat membantu,['membantu'],['bantu']
+Aplikasi sering eror,['aplikasi'],['aplikasi']
+"Gua nggak pernah percaya Ama aplikasi atau website yang dibikin pemerintah dan turunannya. Nggak ada yang jelas nggak ada yang bener, bukannya mudah malah tambah ribet. Dana nggak dibuat ngembangin apps malah dimasukin ke perut semua.","['percaya', 'aplikasi', 'website', 'dibikin', 'pemerintah', 'turunannya', 'mudah', 'ribet', 'dana', 'dimasukin', 'perut']","['percaya', 'aplikasi', 'website', 'bikin', 'perintah', 'turun', 'mudah', 'ribet', 'dana', 'dimasukin', 'perut']"
+Thanks PeduliLindungi 🙏🏻🙏🏻🙏🏻,['pedulilindungi'],['pedulilindungi']
+Gak bisa login. Padahal dah hapus data dan segala macem,"['hapus', 'data']","['hapus', 'data']"
+Data kenapa bisa bocor ?,"['data', 'bocor']","['data', 'bocor']"
+Saya kesulitan utk masuk saat melakukan pembaharuan pelayanan seperti yg ditawarkan,"['kesulitan', 'masuk', 'pembaharuan', 'pelayanan', 'ditawarkan']","['sulit', 'masuk', 'baharu', 'layan', 'tawar']"
+"Pembaruan nya lama sekali,",['pembaruan'],['baru']
+Mantap,['mantap'],['mantap']
+"Nomor hp saya sudah hilang, gimana saya mau loginya ya?? Tolong diperbaiki lagi, jgn ribetin manusia klo ga mau tuhan ikut turun tangan.","['hilang', 'tolong', 'diperbaiki', 'manusia', 'tuhan', 'turun', 'tangan']","['hilang', 'tolong', 'baik', 'manusia', 'tuhan', 'turun', 'tangan']"
+udah di perbaiki masalah log in makasih,"['perbaiki', 'makasih']","['baik', 'makasih']"
+"Aplikasi kebanyakan pembaruan, di klik ga bisa.","['aplikasi', 'pembaruan', 'klik']","['aplikasi', 'baru', 'klik']"
+Butuh,['butuh'],['butuh']
+"Kenapa pas pilih jenis vaksin selalu ada tulisan jenis vaksin tidak valid , padahal udah jelas jelas benar","['pilih', 'vaksin', 'tulisan', 'vaksin', 'valid']","['pilih', 'vaksin', 'tulis', 'vaksin', 'valid']"
+Saya kurang mengerti,['mengerti'],['erti']
+Ribet,['ribet'],['ribet']
+Bagus pelayanan nya,"['bagus', 'pelayanan']","['bagus', 'layan']"
+Tidak ada keluhan...,['keluhan'],['keluh']
+Apks gak guna. Login berkali kali tidak bisa,['berkali'],['kali']
+"Update mulu,hp ram kecil susah bos",['susah'],['susah']
+Bagus sekali,['bagus'],['bagus']
+"Ribet, bentar2 update. Heran","['ribet', 'bentar', 'heran']","['ribet', 'bentar', 'heran']"
+Tidak bisa keluar sertifikat vaksin,"['sertifikat', 'vaksin']","['sertifikat', 'vaksin']"
+Aplikasi gajelas..dikit2 update mulu,['aplikasi'],['aplikasi']
+"Aplikasi bikin susah,dikit2 mnt d update",['aplikasi'],['aplikasi']
+Setelah di update malah tidak bisa login keluar terus. Akhirnya saya putuskan uninstal. Padahal di hp tertulis bisa di pakai di hp ASUS,"['putuskan', 'tertulis', 'pakai']","['putus', 'tulis', 'pakai']"
+Ribet pisan loba aturan,"['ribet', 'aturan']","['ribet', 'atur']"
+Bintang tiga dulu,['bintang'],['bintang']
+Aplikasi nyusahin.,['aplikasi'],['aplikasi']
+"Sebwoum d update serifikat vaksin bisa di download setlah di update setifikate vaksin gabisa di download, aneh orang bukan tambah maju ini malah mengalami kemunduran😑","['vaksin', 'vaksin', 'aneh', 'maju', 'mengalami', 'kemunduran']","['vaksin', 'vaksin', 'aneh', 'maju', 'alami', 'mundur']"
+Mantap . Membantu,"['mantap', 'membantu']","['mantap', 'bantu']"
+Aplikasi gak penting... Keseringan update,"['aplikasi', 'keseringan']","['aplikasi', 'sering']"
+Aplikasi bikin ribet,"['aplikasi', 'ribet']","['aplikasi', 'ribet']"
+Membatu,['membatu'],['batu']
+Pelayanannya bgus cepat dn ramah,"['pelayanannya', 'cepat', 'ramah']","['layan', 'cepat', 'ramah']"
+"Ini gimana ini kok tidak bisa dibuka sertifikasi vaksinnya, eror ini, tolong developer segera memperbaiki","['dibuka', 'vaksinnya', 'tolong', 'memperbaiki']","['buka', 'vaksin', 'tolong', 'baik']"
+Kenapa versi terbaru sulit sekali terbuka,"['versi', 'terbaru', 'sulit', 'terbuka']","['versi', 'baru', 'sulit', 'buka']"
+"Oke banget aplikasinya, memudahkan kita bepergian dan beraktifitas","['aplikasinya', 'memudahkan', 'bepergian', 'beraktifitas']","['aplikasi', 'mudah', 'pergi', 'beraktifitas']"
+Appsnya harus login terus dan di bersihkan data baru bisa login kembali,"['bersihkan', 'data']","['sih', 'data']"
+Bagus,['bagus'],['bagus']
+Sangat membantu untuk kepergian jauh atau dekat untuk menjaga jarak demi covid. Law bisa EHAC NYA DI LANCARKAN BIAR SEMUA BISA DAFTAR UNTUK KEPERGIAN GK SUSAH UNTUK PENERBANGAN ATAU LAUTAN,"['membantu', 'kepergian', 'menjaga', 'jarak', 'covid', 'lancarkan', 'daftar', 'kepergian', 'susah', 'penerbangan', 'lautan']","['bantu', 'pergi', 'jaga', 'jarak', 'covid', 'lancar', 'daftar', 'pergi', 'susah', 'terbang', 'laut']"
+"ini aplikasi nya masih bisa dipakai ngk sih, klw ngk bisa jgn dibuat susah org, org mau bepergian ke LN tp error melulu beberapa hari ini, aplikasi nya di tutup aja klw nyusahin ..😞","['aplikasi', 'dipakai', 'susah', 'bepergian', 'aplikasi', 'tutup']","['aplikasi', 'pakai', 'susah', 'pergi', 'aplikasi', 'tutup']"
+"Aplikasinya eror padahal lagi genting,lama banget perbaikannya,respon kemenkes juga lelet padahal aplikasi milik pemerintah","['aplikasinya', 'kemenkes', 'lelet', 'aplikasi', 'milik', 'pemerintah']","['aplikasi', 'kemenkes', 'lelet', 'aplikasi', 'milik', 'perintah']"
+"Tidak dapat login setelah aplikasi di perbaharui, lalu bagaimana bisa melihat sertifikat vaksin 1, 2 serta sertifikat booster? Tolong di perbaiki secepat nya","['aplikasi', 'perbaharui', 'sertifikat', 'vaksin', 'sertifikat', 'booster', 'tolong', 'perbaiki']","['aplikasi', 'baharu', 'sertifikat', 'vaksin', 'sertifikat', 'booster', 'tolong', 'baik']"
+di perbarui malah..kaya apl tolol,['perbarui'],['baru']
+TOP,['top'],['top']
+"Tolong ini gimana saya ga bisa login apk, udah di coba di website pedulilindungi ga masuk aja malah bolak balik di tampilan login Tolong untuk solusinya ini gimana?","['tolong', 'coba', 'website', 'pedulilindungi', 'masuk', 'tampilan', 'tolong', 'solusinya']","['tolong', 'coba', 'website', 'pedulilindungi', 'masuk', 'tampil', 'tolong', 'solusi']"
+"Sampahh!!! Mau Buat KTP diminta sertifikat Vaksin Download pedulilindungi buat ngecek sertifikat vaksin tapi ngga bisa Login. Lewat situs webnya juga ngga bisa... Iniii gimanaaa,, mau apa² dipersulit.... Hahassyyyuuuu","['sertifikat', 'vaksin', 'pedulilindungi', 'sertifikat', 'vaksin', 'situs', 'webnya', 'dipersulit']","['sertifikat', 'vaksin', 'pedulilindungi', 'sertifikat', 'vaksin', 'situs', 'webnya', 'sulit']"
+"Apk apaan ini.,, Aku uda lh vaksin ke 3 tapi ngk bisa muncul sertifikasi nya","['vaksin', 'muncul']","['vaksin', 'muncul']"
+Bagus.,['bagus'],['bagus']
+Apk unfaedah...daftar masuk aj gak bisa,['masuk'],['masuk']
+Sudah update malah makin ribet. Buka sertifikat vaksin di arahkan ke chrome padahal biasanya otomatis muncul.,"['ribet', 'buka', 'sertifikat', 'vaksin', 'arahkan', 'chrome', 'otomatis', 'muncul']","['ribet', 'buka', 'sertifikat', 'vaksin', 'arah', 'chrome', 'otomatis', 'muncul']"
+suka trouble,['suka'],['suka']
+UI terburuk dan tidak efisien. udah ada apps kok mesti masuk web hmmzzz mana pas masuk web suruh login pas login ehh ga masuk² ni mo ngecek serfitikat gimana hey,"['terburuk', 'efisien', 'mesti', 'masuk', 'web', 'masuk', 'web', 'suruh', 'masuk', 'serfitikat']","['buruk', 'efisien', 'mesti', 'masuk', 'web', 'masuk', 'web', 'suruh', 'masuk', 'serfitikat']"
+"Tolong developer, nda bisa login. Keterangannya ada masalah terussss. Aplikasiii apa ini, tolong di perbaiki","['tolong', 'keterangannya', 'tolong', 'perbaiki']","['tolong', 'terang', 'tolong', 'baik']"
+Aplikasi buruk sialan,"['aplikasi', 'buruk', 'sialan']","['aplikasi', 'buruk', 'sial']"
+Gabisa masuk,['masuk'],['masuk']
+"Aplikasinya suka minta updapte, udah di update malah ga bisa buka sertifikat","['aplikasinya', 'suka', 'buka', 'sertifikat']","['aplikasi', 'suka', 'buka', 'sertifikat']"
+Kenapa susah sekali login nya,['susah'],['susah']
+"Aplikasinya Kok Malah tidak Bisa Login dan Tidak Bisa Daftar, sudah di coba di HP dan juga di Laptop tetap sama,. Mohon penjelasannya Admin. Apakah ada Kesalahan Server Pusat? Terima Kasih","['aplikasinya', 'daftar', 'coba', 'laptop', 'mohon', 'penjelasannya', 'kesalahan', 'server', 'pusat', 'terima', 'kasih']","['aplikasi', 'daftar', 'coba', 'laptop', 'mohon', 'jelas', 'salah', 'server', 'pusat', 'terima', 'kasih']"
+Sangat membantu,['membantu'],['bantu']
+"Halo, aku mau login ke akunku kok nggak bisa ini kenapa ya? Selalu tertulis terjadi kesalahan padahal akun email dan nomor telepon udah bener. Mohon bantuannya🙏","['akunku', 'tertulis', 'kesalahan', 'akun', 'email', 'telepon', 'mohon', 'bantuannya']","['akun', 'tulis', 'salah', 'akun', 'email', 'telepon', 'mohon', 'bantu']"
+"Parah mau ngecek sertifikat vaksin gabisa terus diarahkan ke chrome mulu sekalinya ke chrome udh masukan data email atau no telp tetep ga terjadi apa2, tolong perbaiki ya!!!","['parah', 'sertifikat', 'vaksin', 'diarahkan', 'chrome', 'sekalinya', 'chrome', 'masukan', 'data', 'email', 'tolong', 'perbaiki']","['parah', 'sertifikat', 'vaksin', 'arah', 'chrome', 'sekali', 'chrome', 'masuk', 'data', 'email', 'tolong', 'baik']"
+tolong dong jangan menyulitkan saya sudah punya akun tapi untuk log in atau minta sertifikat kaya daftar baru atau rumit gimana ini kelanjutan aplikasi Peduli lindungi,"['tolong', 'menyulitkan', 'akun', 'sertifikat', 'daftar', 'rumit', 'kelanjutan', 'aplikasi', 'peduli', 'lindungi']","['tolong', 'sulit', 'akun', 'sertifikat', 'daftar', 'rumit', 'lanjut', 'aplikasi', 'peduli', 'lindung']"
+Tidak bisa buat daftar akun ini aplikasi apaaa,"['daftar', 'akun', 'aplikasi']","['daftar', 'akun', 'aplikasi']"
+Kenapa update terbaru gk bs liat riwayat check in? Payah,"['terbaru', 'riwayat', 'payah']","['baru', 'riwayat', 'payah']"
+Aplikasi loading nya sangat lama.. sedangkn kita perlu cepat untuk check in dn kasih bukti vaksin di tmpt umum,"['aplikasi', 'cepat', 'kasih', 'bukti', 'vaksin']","['aplikasi', 'cepat', 'kasih', 'bukti', 'vaksin']"
+"Kenapa diupdate malah tambah lemot, cek sertifikat aja masa di alihkan ke web, tambah lagi login ngak masuk masuk, buat apa ada aplikasinya ngak bisa cek langsung, mending aplikasi saat pertama dirilis, ngak ada ribetnya","['sertifikat', 'alihkan', 'web', 'masuk', 'masuk', 'aplikasinya', 'langsung', 'aplikasi', 'dirilis']","['sertifikat', 'alih', 'web', 'masuk', 'masuk', 'aplikasi', 'langsung', 'aplikasi', 'rilis']"
+Nggak pantes dikasih rating buka susah. Setiap diperbaharui semakin oon. Paling responnya minta maaf atas ketidaknyaman. Nggak ada solusi.,"['dikasih', 'rating', 'buka', 'susah', 'diperbaharui', 'maaf', 'ketidaknyaman', 'solusi']","['kasih', 'rating', 'buka', 'susah', 'baharu', 'maaf', 'ketidaknyaman', 'solusi']"
+tidak bisa login dari pagi sampai siang apakah error keberangkatan jadi tertunda merugikan,"['pagi', 'siang', 'keberangkatan', 'tertunda', 'merugikan']","['pagi', 'siang', 'berangkat', 'tunda', 'rugi']"
+Aplikasi t444i... gw susah masuk keja gara2 aplikase eror masa harus vaxin lg t0loll,"['aplikasi', 'susah', 'masuk']","['aplikasi', 'susah', 'masuk']"
+Ribet nyusahin,['ribet'],['ribet']
+Maaf saya tidak bisa masuk aplikasi peduli lindungi lagi.. Padahal awal bisa.. Mohon bantuannya,"['maaf', 'masuk', 'aplikasi', 'peduli', 'lindungi', 'mohon', 'bantuannya']","['maaf', 'masuk', 'aplikasi', 'peduli', 'lindung', 'mohon', 'bantu']"
+Aplikasinya ribet,"['aplikasinya', 'ribet']","['aplikasi', 'ribet']"
+Aplikasi malah bikin susah .. Waktunya butuh malah eror sudah masukin email nama no.ktp dll dipencet masuk malah ga ada proses malah ilang di isi kembali tetep aja sama . Bukan memudahkan malaah menyusahkan ini mah,"['aplikasi', 'susah', 'butuh', 'masukin', 'email', 'nama', 'masuk', 'proses', 'isi', 'memudahkan', 'menyusahkan']","['aplikasi', 'susah', 'butuh', 'masukin', 'email', 'nama', 'masuk', 'proses', 'isi', 'mudah', 'susah']"
+Sangat membantu dalam pekerjaan yg kl mau masuk lokasi kerja hrs scan dulu,"['membantu', 'pekerjaan', 'masuk', 'lokasi', 'kerja']","['bantu', 'kerja', 'masuk', 'lokasi', 'kerja']"
+"Ini gimana sih peduli lindungi susah banget mau masuk atau login, loading lamaa sampai gabisa kebuka semuanya. Tolong perbaiki ini kenapa","['peduli', 'lindungi', 'susah', 'masuk', 'kebuka', 'tolong', 'perbaiki']","['peduli', 'lindung', 'susah', 'masuk', 'buka', 'tolong', 'baik']"
+Di update malah gak bisa masuk . Payah,"['masuk', 'payah']","['masuk', 'payah']"
+Di perbaharui kok malah gak bisa cek ricek...hadeh...bagaimana ni??muter kya kemedi puter...pusiang sayah,['perbaharui'],['baharu']
+Udah di upgrade malah tambah lama loading nya payah,['payah'],['payah']
+Kenapa setelah diupdate malah mental keluar terus,['mental'],['mental']
+"Minta update trs ,gk di update keluar sendiri giliran di update malah gk bisa di pake scan,nyusahin aja",['giliran'],['gilir']
+Apk rusak penyebar data pribadi,"['rusak', 'penyebar', 'data', 'pribadi']","['rusak', 'sebar', 'data', 'pribadi']"
+Mau cek sertifikat malan kagak ada gmna sih?udah cek di website nya juga ga jalan hadeh,"['sertifikat', 'kagak', 'website', 'jalan']","['sertifikat', 'kagak', 'website', 'jalan']"
+"Dr sejak muncul aplikasi pedulilindungi harus di perbarui pd Hp saya, ternyata tidak bisa di update, setelah saya coba uninstall kemudian install ulang tidak bisa juga, jadi harus bagaimana?","['muncul', 'aplikasi', 'pedulilindungi', 'perbarui', 'coba', 'ulang']","['muncul', 'aplikasi', 'pedulilindungi', 'baru', 'coba', 'ulang']"
+"Masuk apl nya utk buka sertifikat vaksin3 ga bisa, login lagi ga bisa. Di uninstal dan dl apl lagi, mau login tetep ga bisa...","['masuk', 'buka', 'sertifikat', 'vaksin']","['masuk', 'buka', 'sertifikat', 'vaksin']"
+"Kenapa saya tidak bisa masuk lagi, setelah di perbarui, saya sangat perlu plikasi ini, sekarang mau kemana-mana harus pake plikasi ini,","['masuk', 'perbarui']","['masuk', 'baru']"
+Aplikasi tidak bisa di buka,"['aplikasi', 'buka']","['aplikasi', 'buka']"
+Untuk lihat sertifikatnya ribet,"['lihat', 'sertifikatnya', 'ribet']","['lihat', 'sertifikat', 'ribet']"
+"kenapa susah amat masuknya, enak an apk yg terdahulu gampang masuknya, seharusnya semakin mudah bukan sebalik nya🙏.","['susah', 'masuknya', 'enak', 'gampang', 'masuknya', 'mudah', 'sebalik']","['susah', 'masuk', 'enak', 'gampang', 'masuk', 'mudah', 'balik']"
+Saya install ulang tapi malah tidak bisa masuk 😔,"['ulang', 'masuk']","['ulang', 'masuk']"
+Aplikasi sering eror gakjelas !!!,['aplikasi'],['aplikasi']
+"Tidak bisa masuk lagi, setelah di perbarui padahal plikasi ini sangat perlu, mau kemana aja harus pake plikasi ini, tolong dong di perbaiki segera","['masuk', 'perbarui', 'tolong', 'perbaiki']","['masuk', 'baru', 'tolong', 'baik']"
+"Aplikasi ga bermutu, mau lihat sertifikat vaksin aja muter muter terus, kebabanyakan menu loading. PAYAH, Sumpah ini aplikasi PAYAH","['aplikasi', 'bermutu', 'lihat', 'sertifikat', 'vaksin', 'menu', 'payah', 'sumpah', 'aplikasi', 'payah']","['aplikasi', 'mutu', 'lihat', 'sertifikat', 'vaksin', 'menu', 'payah', 'sumpah', 'aplikasi', 'payah']"
+Ini mau masuk/log in coba lagi terus gmn?,['coba'],['coba']
+"Aplikasi gajelas padahal udah daftar, Tiba-tiba udah log out trus gabisa login lagi, daftar lagi gabisa, mau login juga gabisa","['aplikasi', 'daftar', 'daftar']","['aplikasi', 'daftar', 'daftar']"
+Susah masuk,"['susah', 'masuk']","['susah', 'masuk']"
+"Aplikasi ini sudah tidak bagus dan tidak aman, kami tidak bisa login, untuk scan qr ke ruang publik tidak bisa","['aplikasi', 'bagus', 'aman', 'ruang', 'publik']","['aplikasi', 'bagus', 'aman', 'ruang', 'publik']"
+Tidak bisa login aplikasi,['aplikasi'],['aplikasi']
+Sangat berguna,['berguna'],['guna']
+"Mohon penjelasanNya Boss.... AplikasiNya kok eror. Padahal sudah lama saya pakai ini, begitu saya instal ulang aplikasiNya masih saja eror. Apakah karnan BBM Naik, ini aplikasi juga mau bikin Naik!!!?","['mohon', 'penjelasannya', 'aplikasinya', 'pakai', 'instal', 'ulang', 'aplikasinya', 'aplikasi']","['mohon', 'jelas', 'aplikasi', 'pakai', 'instal', 'ulang', 'aplikasi', 'aplikasi']"
+"Mau masuk kok dipersulit? Dan kekurangan dari aplikasi, knp tdk disediakan akses atau cara ""lupa email atau password?"" Sudah dua kali download, ttp tidak bisa masuk😠","['masuk', 'dipersulit', 'kekurangan', 'aplikasi', 'disediakan', 'akses', 'lupa', 'email', 'password', 'masuk']","['masuk', 'sulit', 'kurang', 'aplikasi', 'sedia', 'akses', 'lupa', 'email', 'password', 'masuk']"
+Memaksimalkan covit,['memaksimalkan'],['maksimal']
+Setelah diperbaharui jadi tidak dapat di akses Mohon segera diperbaiki,"['diperbaharui', 'akses', 'mohon', 'diperbaiki']","['baharu', 'akses', 'mohon', 'baik']"
+Sulit di buka dan di gunakan,"['sulit', 'buka']","['sulit', 'buka']"
+"Tolonglah di perbaiki aplikasinya. Saya susah login, masa setelah update kok malah jadi error ???","['tolonglah', 'perbaiki', 'aplikasinya', 'susah']","['tolong', 'baik', 'aplikasi', 'susah']"
+Aplikasi tolol error mulu,['aplikasi'],['aplikasi']
+Sekarang jadi ribet apknya ngga se simpel dulu,['ribet'],['ribet']
+Sangat membantu utk perjalanan,"['membantu', 'perjalanan']","['bantu', 'jalan']"
+Tolong perbaiki aplikasi nya. Kenapa saya mau cek sertifikat vaksin susah sekali. Pas saya uninstall apk trus download lgi pas mau login malah ga bisa-bisa.,"['tolong', 'perbaiki', 'aplikasi', 'sertifikat', 'vaksin', 'susah']","['tolong', 'baik', 'aplikasi', 'sertifikat', 'vaksin', 'susah']"
+Akun saya kok tiba tiba keluar dan mau login kembali selalu gagal ya kak,"['akun', 'gagal']","['akun', 'gagal']"
+Bagus & bermanfaat,"['bagus', 'bermanfaat']","['bagus', 'manfaat']"
+Sangat jelek aplikasi ini..puayah,"['jelek', 'aplikasi']","['jelek', 'aplikasi']"
+ga bisa masuk abis update. bikin susah aja.,"['masuk', 'susah']","['masuk', 'susah']"
+"Setelah update, malah ga bisa buat cek sertifikat vaksin. Disuruh log in udah log in eh balik lagi ke halaman log in. Gitu terus aja","['sertifikat', 'vaksin', 'disuruh', 'halaman']","['sertifikat', 'vaksin', 'suruh', 'halaman']"
+Aplikasi ini banyak bug mohon untuk di tindak lanjuti,"['aplikasi', 'mohon', 'tindak', 'lanjuti']","['aplikasi', 'mohon', 'tindak', 'lanjut']"
+"Setelah di update malah logout , mau login lagi susah keterangan waktu abis, Bikin gw depat sama satpam cuman gara2 gini doang, sue lu","['susah', 'keterangan', 'satpam']","['susah', 'terang', 'satpam']"
+"Aplikasi yg sangat jelek, dlu bgus semakin diperbarui semakin buk, ad batasan pencarian setifikat vaksin yg hanya 6 kartu perhari, sangat tidak membantu dengan perubahan ini, apalagi belakangan ini susah saat login, klau ad yg terbaru jgn bikin org menjadi SULIT......","['aplikasi', 'jelek', 'diperbarui', 'batasan', 'pencarian', 'vaksin', 'kartu', 'membantu', 'perubahan', 'susah', 'terbaru', 'sulit']","['aplikasi', 'jelek', 'baru', 'batas', 'cari', 'vaksin', 'kartu', 'bantu', 'ubah', 'susah', 'baru', 'sulit']"
+Gabisa dibuka hm,['dibuka'],['buka']
+Cek sertifikat vaksin belum bisa,"['sertifikat', 'vaksin']","['sertifikat', 'vaksin']"
+"Ini knpa aplikasi nya gk bisa masuk woyy,, gua lg butuh buat barcode malah out sendiri dri akun.","['aplikasi', 'masuk', 'butuh', 'akun']","['aplikasi', 'masuk', 'butuh', 'akun']"
+Aplikasi bermasalah dan versi website juga bermasalah tidak bisa login,"['aplikasi', 'bermasalah', 'versi', 'website', 'bermasalah']","['aplikasi', 'masalah', 'versi', 'website', 'masalah']"
+Setelah up mala ga bisa d buka,['buka'],['buka']
+Help doong.....ini kenapa ya diminta update.....udaaaah update....trus diminta login ulang....udaaah tapi kok gagal terusss.....ada apa yaaaa...please help dooong admin.....,['gagal'],['gagal']
+"Tidak bisa masuk berkali kali gagal, sudah di uninstal lalu download lagi juga tidak bisa. Tolong diperbaiki! Saya mau cetak sertifikat vaksin booster ini","['masuk', 'berkali', 'gagal', 'tolong', 'diperbaiki', 'cetak', 'sertifikat', 'vaksin', 'booster']","['masuk', 'kali', 'gagal', 'tolong', 'baik', 'cetak', 'sertifikat', 'vaksin', 'booster']"
+susah untuk masuk,"['susah', 'masuk']","['susah', 'masuk']"
+"Kenapa harini ini gangguan terus gabisa masuk aplikasi , sudah uninstal malah gabisa login sama sekali gimana inii solusinya","['gangguan', 'masuk', 'aplikasi', 'solusinya']","['ganggu', 'masuk', 'aplikasi', 'solusi']"
+"Selalu harus update,yang hp full jadi susah harus hapusin aplikasi lain","['susah', 'aplikasi']","['susah', 'aplikasi']"
+"Tiba tiba log out, gabisa log in lagi kan aneh",['aneh'],['aneh']
+Di update malah jadi eror payah,['payah'],['payah']
+Aplikasi gak pernah beres,['aplikasi'],['aplikasi']
+"Maaf ini kenapa ya saya tidak bisa login melalui email, hanya loading muter aja lalu muncul tulisan terjadi kesalahan silahkan coba lagi","['maaf', 'email', 'muncul', 'tulisan', 'kesalahan', 'silahkan', 'coba']","['maaf', 'email', 'muncul', 'tulis', 'salah', 'silah', 'coba']"
+"Gk bisa login, terjadi kesalahan mulu, padahal jaringan full","['kesalahan', 'jaringan']","['salah', 'jaring']"
+setelah di upgrade aplikasinya bukannya tambah bagus malah gak bs login.,"['aplikasinya', 'bagus']","['aplikasi', 'bagus']"
+Minta perbarui mulu,['perbarui'],['baru']
+mau tanya ada apa aplikasi perduli lindungi versi terbaru setiap kali mau selalu tertulis terjadi kesalahan ada aplikasi ?,"['aplikasi', 'lindungi', 'versi', 'terbaru', 'tertulis', 'kesalahan', 'aplikasi']","['aplikasi', 'lindung', 'versi', 'baru', 'tulis', 'salah', 'aplikasi']"
+"Sudah dah positif apapun yang berbau dari pemerintah kualitasnya seperti taik. Wajib aplikasi ini lah itu lah, tapi gak bisa di pake. Gini kok mau 3 periode. Malu sama tanah.","['positif', 'pemerintah', 'kualitasnya', 'wajib', 'aplikasi', 'periode', 'malu', 'tanah']","['positif', 'perintah', 'kualitas', 'wajib', 'aplikasi', 'periode', 'malu', 'tanah']"
+Payah selalu keluar,['payah'],['payah']
+Setelah di update jadi tidak bisa scan barcode.. Jadi menghambat aktivitas.,"['menghambat', 'aktivitas']","['hambat', 'aktivitas']"
+"Ini kenapa yahh, setelah mau diperbaruigak bisa mulu. Jadi aku coba uninstall ehh malah login nya gak bisa mulu, bikin susah kalo mau kemana2 nihh","['coba', 'susah']","['coba', 'susah']"
+Ini sebabnya bukan orang yang profesional dibidangnya disuruh ngelola,"['profesional', 'dibidangnya', 'disuruh']","['profesional', 'bidang', 'suruh']"
+"Kepaksa downlod cuman buat sarat kerja doang, mau persi lama atau baru ttp aja cuman formalitas menuh menuhin hp doang","['kepaksa', 'sarat', 'kerja', 'formalitas']","['paksa', 'sarat', 'kerja', 'formalitas']"
+"Aplikasi cacat, di buka gak bisa. Giliran di hapus download lgi bisa di buka tapi gak bisa login. Untung ada KAI Acces lebih ngertiin bisa keliatan, hampir ketinggalan kereta gara-gara sertifikat vaksin INI aplikasi cacat.","['aplikasi', 'cacat', 'buka', 'giliran', 'hapus', 'buka', 'kai', 'ngertiin', 'ketinggalan', 'kereta', 'sertifikat', 'vaksin', 'aplikasi', 'cacat']","['aplikasi', 'cacat', 'buka', 'gilir', 'hapus', 'buka', 'kai', 'ngertiin', 'tinggal', 'kereta', 'sertifikat', 'vaksin', 'aplikasi', 'cacat']"
+JelekL Lambat,['lambat'],['lambat']
+Perbaikiiii! Saya tidak bisa login dan melihat sertifikat vaksinasi.,"['sertifikat', 'vaksinasi']","['sertifikat', 'vaksinasi']"
+Susah masuk skrng ya .,"['susah', 'masuk']","['susah', 'masuk']"
+Aplikasi apa sih...kemanapun harus scan dan sebagainy tapi aplikasiny susah dibuka...mempersulit aktivitas aja,"['aplikasi', 'susah', 'aktivitas']","['aplikasi', 'susah', 'aktivitas']"
+Apakah aplikasi ini bisa lindungi data Pribadi ?,"['aplikasi', 'lindungi', 'data', 'pribadi']","['aplikasi', 'lindung', 'data', 'pribadi']"
+Eror lemot lama masuknya,['masuknya'],['masuk']
+aplikasi harus di perbarui terus,"['aplikasi', 'perbarui']","['aplikasi', 'baru']"
+"Sekiranya blm siap bikin aplikasi, blm siap meluncurkan pembaruan, & blm siap mental, jgn begini caranya. Klo gk berguna, mininal jgn nyusahin org byk deh.","['aplikasi', 'meluncurkan', 'pembaruan', 'mental', 'berguna']","['aplikasi', 'luncur', 'baru', 'mental', 'guna']"
+tingkatkan pelayanan lebih baik lagi,"['tingkatkan', 'pelayanan']","['tingkat', 'layan']"
+Ni aplikasi makin hari kok makin eror....sy mau masuk ke aplikasi saja susahnya minta ampun terjadi kesalahan terus.....gmna masyarakat mau percaya....,"['aplikasi', 'masuk', 'aplikasi', 'susahnya', 'ampun', 'kesalahan', 'masyarakat', 'percaya']","['aplikasi', 'masuk', 'aplikasi', 'susah', 'ampun', 'salah', 'masyarakat', 'percaya']"
+"Gabisa kebuka error , login gabisa",['kebuka'],['buka']
+Setelah di update gak bisa dibuka,['dibuka'],['buka']
+"Baru coba instal karena perlu & diharuskan menggunakan aplikasi ini, tapi setelah 2hari mencoba sign up/daftar baru selalu gagal (terjadi kesalahan teknis).. hadeeeuuh plat merah oh plat merah,kok kelas negara kalah dengan kelas login minimarket","['coba', 'instal', 'diharuskan', 'aplikasi', 'mencoba', 'gagal', 'kesalahan', 'teknis', 'merah', 'kelas', 'negara', 'kalah', 'kelas']","['coba', 'instal', 'harus', 'aplikasi', 'coba', 'gagal', 'salah', 'teknis', 'merah', 'kelas', 'negara', 'kalah', 'kelas']"
+"Aplikasinya bagus sebenarnya tapi kenapa pas masuk lagi gk bisa ya ,selalu bilang terjadi kesalahan,silakan coba lagi Udah di coba ulang2 tapi bisa masuk","['aplikasinya', 'bagus', 'masuk', 'bilang', 'coba', 'coba', 'ulang', 'masuk']","['aplikasi', 'bagus', 'masuk', 'bilang', 'coba', 'coba', 'ulang', 'masuk']"
+Tidak bisa daftar akun,"['daftar', 'akun']","['daftar', 'akun']"
+Saya pikir di update tambah mudah ternyata tambah sulit tolong jangn di persulit kami,"['pikir', 'mudah', 'sulit', 'tolong', 'persulit']","['pikir', 'mudah', 'sulit', 'tolong', 'sulit']"
+"Baru saja update langsung gk bisa masuk kenapa sih selalu berulah setiap update,,,,,,,,,","['langsung', 'masuk']","['langsung', 'masuk']"
+"Aplikasi cacat, sering errornya daripada kepakenya","['aplikasi', 'cacat']","['aplikasi', 'cacat']"
+"Loading lama, jika belum bisa buat aplikasi jangan buat aplikasi.","['aplikasi', 'aplikasi']","['aplikasi', 'aplikasi']"
+aplikasi anehhh dan lemot,['aplikasi'],['aplikasi']
+Lambat,['lambat'],['lambat']
+Aplikasi gak bisa dibuka mulu sedangkan mau naik kereta sama pesawat harus scan terus ... Coba dong di perbaiki lagi aplikasi nya,"['aplikasi', 'dibuka', 'kereta', 'pesawat', 'coba', 'perbaiki', 'aplikasi']","['aplikasi', 'buka', 'kereta', 'pesawat', 'coba', 'baik', 'aplikasi']"
+"Aplikasinya ga bisa di buka2 padahal udah di uninstall trs install lagi masih ttp kaga bisa,gmn ini saya mau masuk ke gedung kantor ga bisa2, boleh penjelasan nya ya...","['aplikasinya', 'buka', 'masuk', 'gedung', 'kantor', 'penjelasan']","['aplikasi', 'buka', 'masuk', 'gedung', 'kantor', 'jelas']"
+"Aplikasi susah di buka, padahal sering ku update, daftar juga susah, ngisi tgl lahirnya terlalu panjang, kurang simpel,","['aplikasi', 'susah', 'buka', 'daftar', 'susah', 'lahirnya']","['aplikasi', 'susah', 'buka', 'daftar', 'susah', 'lahir']"
+Tolong segera di perbaiki. Setelah di upgrade ko ga bisa login sama sekali. Gimana mau di pakai kalau kayak gini.,"['tolong', 'perbaiki', 'pakai']","['tolong', 'baik', 'pakai']"
+"ko sekarang mau login aja susah yaa anehh ni aplikasi, tolong di perbaiki 🙏","['susah', 'aplikasi', 'tolong', 'perbaiki']","['susah', 'aplikasi', 'tolong', 'baik']"
+Tidak memudahkan bagi pengguna yang ingin merubah data diri. Pengubahan data diri tidak bisa dilakukan secara mandiri.,"['memudahkan', 'pengguna', 'merubah', 'data', 'pengubahan', 'data', 'mandiri']","['mudah', 'guna', 'rubah', 'data', 'ubah', 'data', 'mandiri']"
+"Aplikasi tidak membantu... minta perubahan/update versi makin susah digunakan, lemott walau udah pake kartu sim yg top sekalipun","['aplikasi', 'membantu', 'versi', 'susah', 'kartu', 'top']","['aplikasi', 'bantu', 'versi', 'susah', 'kartu', 'top']"
+"Saya coba log in dari 2 hp ga bisa trus, gmn saya jd ga bs masuk kemana-mana dong?","['coba', 'masuk']","['coba', 'masuk']"
+Aplikasi yang sangat rumit dibuat login saja tidak bisa diweb nya juga sama,"['aplikasi', 'rumit']","['aplikasi', 'rumit']"
+"Aplikasinya susah dipakai log in. Apa karena covid sudah tidak henoh, jadi kurang diperhatikan","['aplikasinya', 'susah', 'dipakai', 'covid', 'diperhatikan']","['aplikasi', 'susah', 'pakai', 'covid', 'perhati']"
+"Gagal Mulu mau login gangguan, bikin emosi aja aplikasinya","['gagal', 'gangguan', 'emosi', 'aplikasinya']","['gagal', 'ganggu', 'emosi', 'aplikasi']"
+bagus di permudah tapi setelah ada notifikasi pertukaran data jadinya ga bisa masuk,"['bagus', 'permudah', 'notifikasi', 'pertukaran', 'data', 'masuk']","['bagus', 'mudah', 'notifikasi', 'tukar', 'data', 'masuk']"
+Bagus sekali,['bagus'],['bagus']
+Mantap,['mantap'],['mantap']
+"Tambah ribet. Dan gak jelas... Mau lihat riwayat vaksin aja susahnya minta ampun. Mau Lihat profil malah yang keluar akses pertukaran data yang gak jelas, lemotnya minta ampun... Padahal mau dipakai buat beli tiket perjalanan.. ini gmn mau jalan, aplikasi negara kok kayak gini...","['ribet', 'lihat', 'riwayat', 'vaksin', 'susahnya', 'ampun', 'lihat', 'profil', 'akses', 'pertukaran', 'data', 'lemotnya', 'ampun', 'dipakai', 'beli', 'tiket', 'perjalanan', 'jalan', 'aplikasi', 'negara']","['ribet', 'lihat', 'riwayat', 'vaksin', 'susah', 'ampun', 'lihat', 'profil', 'akses', 'tukar', 'data', 'lot', 'ampun', 'pakai', 'beli', 'tiket', 'jalan', 'jalan', 'aplikasi', 'negara']"
+Punya aku kesalahan terus eror pas mau login 😭,['kesalahan'],['salah']
+Habis di update malah perbaikan sistem gak bisa digunakan apl,"['habis', 'perbaikan', 'sistem']","['habis', 'baik', 'sistem']"
+Error terus jaringan padahal bagus.,"['jaringan', 'bagus']","['jaring', 'bagus']"
+Woi aplikasi ngapa jadi kluar smua.. Klo bisa login lg sih gpp,['aplikasi'],['aplikasi']
+Permisi kak ini saya gk bisa login habis booster,"['permisi', 'habis', 'booster']","['permisi', 'habis', 'booster']"
+Semalem masih bisa tapi pas buka sekarang gak bisa malah kembali LG ke awal harus daftar ulang LG,"['buka', 'daftar', 'ulang']","['buka', 'daftar', 'ulang']"
+"aplikasinya ngelag. masa pas buka nyangkut dihalaman depan terus😏 ini mah bukannya memudahkan, malah menyulitkan.","['aplikasinya', 'buka', 'dihalaman', 'memudahkan', 'menyulitkan']","['aplikasi', 'buka', 'halaman', 'mudah', 'sulit']"
+"kok nggak bisa dibuka ya dari semalem cuman tulisan pedulilindungi saja,","['dibuka', 'tulisan', 'pedulilindungi']","['buka', 'tulis', 'pedulilindungi']"
+"Lemot, wifi udah kenceng, udah gonta ganti jaringan, masih aja tiap ngecek profile ga kebuka, ngecek tiket booster jadi ga bisa, padahal seminggu lagi mau berangkat, ampas banget aplikasi yang notabenenya wajib dipake buat semua masyarakat","['ganti', 'jaringan', 'kebuka', 'tiket', 'booster', 'seminggu', 'berangkat', 'aplikasi', 'wajib', 'masyarakat']","['ganti', 'jaring', 'buka', 'tiket', 'booster', 'minggu', 'berangkat', 'aplikasi', 'wajib', 'masyarakat']"
+Kenapa pgi ini tidk bisa di akses ya ..,['akses'],['akses']
+"Katanya suruh di perbaharui setelah diperbaharui GK bisa masuk2, tolong kebijakannya","['suruh', 'perbaharui', 'diperbaharui', 'masuk', 'tolong', 'kebijakannya']","['suruh', 'baharu', 'baharu', 'masuk', 'tolong', 'bijak']"
+Di perbaharui malah ga bisa scan parah,"['perbaharui', 'parah']","['baharu', 'parah']"
+Membantu,['membantu'],['bantu']
+Bagus,['bagus'],['bagus']
+Aplikasinya Error,['aplikasinya'],['aplikasi']
+"Saya sudah vaksin ke 3 (Boster) tapi kenapa sertifikat vaksin belum muncul juga di aplikasi sampai hari ini,sudah hampir 2 bulan.","['vaksin', 'boster', 'sertifikat', 'vaksin', 'muncul', 'aplikasi']","['vaksin', 'boster', 'sertifikat', 'vaksin', 'muncul', 'aplikasi']"
+update terbaru kok tambah ruwet,"['terbaru', 'ruwet']","['baru', 'ruwet']"
+"setelah di update malah gabisa dibuka ,gabisa login juga malah jadi nyusahin ,pdahal smua instansi menggunakan aplikasi ini,kalo ga bisa login /di buka gimana dong","['dibuka', 'instansi', 'aplikasi', 'buka']","['buka', 'instansi', 'aplikasi', 'buka']"
+Merasa penanganan obat BPJS yg iuran bulanan 100 ribu sama rendah nya dengan mereka yang iuran bulanan lebih kecil,"['penanganan', 'obat', 'bpjs', 'iuran', 'rendah', 'iuran']","['tangan', 'obat', 'bpjs', 'iur', 'rendah', 'iur']"
+Jelek,['jelek'],['jelek']
+"mantap habis di update buat login ajh susah, sekalinya masuk chek in gk bsa. pdhal sblum di update lancar"" ajah...","['mantap', 'habis', 'susah', 'sekalinya', 'masuk', 'lancar']","['mantap', 'habis', 'susah', 'sekali', 'masuk', 'lancar']"
+"Pas diupdate aplikasi nya makin gajelas , susah login sertifikat nya keluar terus ,makin ribet","['aplikasi', 'susah', 'sertifikat', 'ribet']","['aplikasi', 'susah', 'sertifikat', 'ribet']"
+Di update bukannya bagus malah log out dan gak bisa buat masuk ke akun nya lagi..,"['bagus', 'masuk', 'akun']","['bagus', 'masuk', 'akun']"
+Gak dia update gak bisa di buka di update pun sama,['buka'],['buka']
+Setelah update jadi susah masuk bukanya makin bagus malah makin jelek.....,"['susah', 'masuk', 'bukanya', 'bagus', 'jelek']","['susah', 'masuk', 'buka', 'bagus', 'jelek']"
+"Akun saya tdk bs dibuka setelah di update. Notifikasinya ""terjadi kesalahan"" Sudah uninstall dan install ulang, msh tdk bisa 😭","['akun', 'dibuka', 'notifikasinya', 'kesalahan', 'ulang']","['akun', 'buka', 'notifikasi', 'salah', 'ulang']"
+susah banget buat loginnya,['susah'],['susah']
+"Sudah vaksin tapi sertfikat belum jadi, masyarakat di paksa untuk vaksin tapi pelayanan tidak memuaskan, penginputan data sertifikat vaksin lama, ini mereka kerjanya ngapain aja ya? Padahal sertifikat vaksin saya butuhkan untuk perjalanan. Tolong di perbaiki lagi untuk kedepanya !","['vaksin', 'masyarakat', 'paksa', 'vaksin', 'pelayanan', 'memuaskan', 'data', 'sertifikat', 'vaksin', 'kerjanya', 'sertifikat', 'vaksin', 'butuhkan', 'perjalanan', 'tolong', 'perbaiki']","['vaksin', 'masyarakat', 'paksa', 'vaksin', 'layan', 'muas', 'data', 'sertifikat', 'vaksin', 'kerja', 'sertifikat', 'vaksin', 'butuh', 'jalan', 'tolong', 'baik']"
+"Abis di update cek sertifikat suruh relogin , alhasil stuck pas login","['sertifikat', 'suruh']","['sertifikat', 'suruh']"
+"Sekarang malah susah utk cetak sertifikat, Dialihkan ke menu login, tpi tidak bisa login padahal nomor hp / email sdh benar","['susah', 'cetak', 'sertifikat', 'dialihkan', 'menu', 'email']","['susah', 'cetak', 'sertifikat', 'alih', 'menu', 'email']"
+"Aplikasi cacatttttttttt, gak bisa buat scannnnn di tunggu banyak orang sampe gak jadi masuk ke tempat","['aplikasi', 'tunggu', 'masuk']","['aplikasi', 'tunggu', 'masuk']"
+"maksa bet update tai, org mo buru²",['maksa'],['maksa']
+Aplikasi ngak bisa di gunakan untuk cek in,['aplikasi'],['aplikasi']
+"Apknya gimana si gak buka sama sekali, mau cek sertifikat saja gak bisa sama sekali sering keluar dri apk sendiri","['buka', 'sertifikat']","['buka', 'sertifikat']"
+"App nya selalu berulah, kadang mau scan malah gabisa masuk ke app nya, di uninstall baru bisa, sekarang malah disuruh login lagi, tapi pas login pake no hp malah terjasi kesalahan. Gimana sih, ga jelas banget app nya🙄","['masuk', 'disuruh', 'kesalahan']","['masuk', 'suruh', 'salah']"
+Kenapa akun pedulilindungi saya tiba tuba log out sendiri dan tidak bisa log in ulang mohon bantuanya,"['akun', 'pedulilindungi', 'ulang', 'mohon']","['akun', 'pedulilindungi', 'ulang', 'mohon']"
+Setelah update jadi ribet aplikasinya ngga kayak sebelumnya,"['ribet', 'aplikasinya']","['ribet', 'aplikasi']"
+Gak bisa masuk habis update. Coba deh kalian cek vaksin bisa gak tuh?,"['masuk', 'habis', 'coba', 'vaksin']","['masuk', 'habis', 'coba', 'vaksin']"
+Semakin diperbaharui semakin buruk peforma nya..,"['diperbaharui', 'buruk', 'peforma']","['baharu', 'buruk', 'forma']"
+"Aplikasi buruk, tidak bisa daftar tidak bisa login paraaaaahhh","['aplikasi', 'buruk', 'daftar']","['aplikasi', 'buruk', 'daftar']"
+"Tolong dong di perbaiki padahal quota ada tpi giliran buka appnya lama bgt, buat scan qr code gak bisa², jadinya menghambat kita yg lagi buru². Tolong dong di perbaiki, minta di update terus tpi gak ada kemajuan² appnya","['tolong', 'perbaiki', 'giliran', 'buka', 'menghambat', 'tolong', 'perbaiki', 'kemajuan']","['tolong', 'baik', 'gilir', 'buka', 'hambat', 'tolong', 'baik', 'maju']"
+Setelah di-update malah logout dan tidak bisa login. Tolonglah diperbaiki. Jangan menyusahkan pengguna.,"['tolonglah', 'diperbaiki', 'menyusahkan', 'pengguna']","['tolong', 'baik', 'susah', 'guna']"
+Setelah di upgrade malah Lolak bnget Ga bisa liat sertifikat vaksin Padahal udh di login pake no hp dan email tpi ttp Balik ke halaman yg sama Gimna sih,"['sertifikat', 'vaksin', 'email', 'halaman']","['sertifikat', 'vaksin', 'email', 'halaman']"
+Mempersulit orang,['mempersulit'],['sulit']
+"Maaf gak bisa buka buka aplikasi nya, gue uninstall ulang malah gak bisa login.. Gmn sih","['maaf', 'buka', 'buka', 'aplikasi', 'ulang']","['maaf', 'buka', 'buka', 'aplikasi', 'ulang']"
+Aplikasi error' terlalu lama dan berat,"['aplikasi', 'berat']","['aplikasi', 'berat']"
+Lahhh kok log out sendiri aplikasinya.. Disuruh login masukin no hp yg terdaftar ehh malah kaga bisa2..tolong dibenerin napa.,"['aplikasinya', 'disuruh', 'masukin', 'terdaftar']","['aplikasi', 'suruh', 'masukin', 'daftar']"
+Gk bisa login error mulu cek sertifikat jga gk bisa,['sertifikat'],['sertifikat']
+Aplikasi bangsattttt Pas mau di buka malah gak bisa kebukaa Anjinggg Ngapain adain kaya gini kalau aplikasi gak standbay,"['aplikasi', 'buka', 'aplikasi']","['aplikasi', 'buka', 'aplikasi']"
+Lemot dan sulit masuk,"['sulit', 'masuk']","['sulit', 'masuk']"
+"sering eror, solusinya cuma re-instal",['solusinya'],['solusi']
+Knp cek akun kok tdk bisa,['akun'],['akun']
+Baru kali ini kasih rating jelek,"['kasih', 'rating', 'jelek']","['kasih', 'rating', 'jelek']"
+"Ngga bisa di buka,,,tolong perbaiki bug nya,,,",['perbaiki'],['baik']
+Lambat saat di buka aplikasinya,"['lambat', 'buka', 'aplikasinya']","['lambat', 'buka', 'aplikasi']"
+"Kinerja aplikasi nya menurun, sangat lambat saat membuka menu. Mohon di perbaiki kembali agar tidak lemot","['kinerja', 'aplikasi', 'menurun', 'lambat', 'membuka', 'menu', 'mohon', 'perbaiki']","['kerja', 'aplikasi', 'turun', 'lambat', 'buka', 'menu', 'mohon', 'baik']"
+"Mo login gagal trus,gmn donk",['gagal'],['gagal']
+"Aplikasi apaan ini. Seluruh rakyat diwajibkan pakai, tapi tak pernah bisa login. Kalau belum siap secara teknisnya kenapa juga harus dipaksakan. Becus kerja ga sih","['aplikasi', 'rakyat', 'diwajibkan', 'pakai', 'teknisnya', 'dipaksakan', 'kerja']","['aplikasi', 'rakyat', 'wajib', 'pakai', 'teknis', 'paksa', 'kerja']"
+Susah buat masuk ke akun,"['susah', 'masuk', 'akun']","['susah', 'masuk', 'akun']"
+Mantap,['mantap'],['mantap']
+Makin kesini makin ngaco aja nih aplikasi.,['aplikasi'],['aplikasi']
+Kurang profesional,['profesional'],['profesional']
+"Susah banget pakainya, udah rumit banget masuknya. Giliran di up date malah ga bisa scan barcode, klo ga di up date ga bisa masuk, gimana sih! Giliran di uninstall ga bisa masuk lagi...","['susah', 'pakainya', 'rumit', 'masuknya', 'giliran', 'masuk', 'giliran', 'masuk']","['susah', 'pakai', 'rumit', 'masuk', 'gilir', 'masuk', 'gilir', 'masuk']"
+Jaringan ga jelas mau scan aja bnyk bacot dulu najis,['jaringan'],['jaring']
+Hp gw ga kentang kentang bat tapi ini kenapa lemot bat dah mana pagi pagi lagi,"['pagi', 'pagi']","['pagi', 'pagi']"
+"Sudah di uninstal trs download lagi ttp gabisa daftar,padahal data sudah bener. Tolong perbaiki lah sistemnya.","['data', 'tolong', 'perbaiki', 'sistemnya']","['data', 'tolong', 'baik', 'sistem']"
+Aplikasi nya habis di update malah ga bisa login,"['aplikasi', 'habis']","['aplikasi', 'habis']"
+Mau cek sertifikat vaksin tp dialihkan ke web dan disuruh login tp gabisa. Jelas2 akun kita udah login.,"['sertifikat', 'vaksin', 'dialihkan', 'web', 'disuruh', 'akun']","['sertifikat', 'vaksin', 'alih', 'web', 'suruh', 'akun']"
+"Setelah update, kenapa jadi tidak bisa membuka menu sertifikat vaksin","['membuka', 'menu', 'sertifikat', 'vaksin']","['buka', 'menu', 'sertifikat', 'vaksin']"
+"Abis di perbarui malah susah buat scan ,, bukannya makin maksimal malah makin jelek","['perbarui', 'susah', 'maksimal', 'jelek']","['baru', 'susah', 'maksimal', 'jelek']"
+ahh kok rusak,['rusak'],['rusak']
+Aplikasi mempersulit masyarakat,"['aplikasi', 'mempersulit', 'masyarakat']","['aplikasi', 'sulit', 'masyarakat']"
+bagus lancar,"['bagus', 'lancar']","['bagus', 'lancar']"
+stlh di update kok malah jd gk bs buka sertifikat vaksinnya ya?,"['buka', 'sertifikat', 'vaksinnya']","['buka', 'sertifikat', 'vaksin']"
+App berulah tidak dpt diakses,['diakses'],['akses']
+Payah,['payah'],['payah']
+Habis update jadi bosok,['habis'],['habis']
+Cepat dan ok banget,['cepat'],['cepat']
+pembaharuan terus,['pembaharuan'],['baharu']
+"Kenapa tb2 ke log out sendiri? Udh gitu pas mau login lg gabisa,udh pake sinyal internet biasa jg gabisa","['sinyal', 'internet']","['sinyal', 'internet']"
+"Setelah update aplikasi tdk bisa dipakai, PERBAIKI !!!","['aplikasi', 'dipakai', 'perbaiki']","['aplikasi', 'pakai', 'baik']"
+Bagus,['bagus'],['bagus']
+Di update bukannya hilang bug nya malah nambah g bsa scan QR lebih gampang versi sebelumnya,"['hilang', 'nambah', 'gampang', 'versi']","['hilang', 'nambah', 'gampang', 'versi']"
+kebayakan booting mulu,['kebayakan'],['kebaya']
+Update yg sangat mempersulit hidup percuma kebanyakan erornya.....,"['mempersulit', 'hidup']","['sulit', 'hidup']"
+Servernya ngelag sedangkan buka webtoon lancar jaya.,"['servernya', 'buka', 'lancar', 'jaya']","['servernya', 'buka', 'lancar', 'jaya']"
+Sangat membantu,['membantu'],['bantu']
+"Setelah diperbarui , aplikasinya malah jadi lemot dan ga bisa masuk ke akunnya","['diperbarui', 'aplikasinya', 'masuk', 'akunnya']","['baru', 'aplikasi', 'masuk', 'akun']"
+"Ini kenapa ya sudah diperbarui kok makin lag wkwk, internet juga kenceng tapi masih aja lag bagian scan","['diperbarui', 'internet']","['baru', 'internet']"
+sangat membantu.,['membantu'],['bantu']
+Kok aplikasi saya tiba tiba log out sendiri pas mau login gagal melulu Ini kenapa ya padahal ngisi email dan no hp bener lho,"['aplikasi', 'gagal', 'email']","['aplikasi', 'gagal', 'email']"
+Mau cek sertifikat vaksin kok sulit ya? Kasihan yg sedang perjalanan dan buru-buru.,"['sertifikat', 'vaksin', 'sulit', 'kasihan', 'perjalanan']","['sertifikat', 'vaksin', 'sulit', 'kasihan', 'jalan']"
+Aplikasinya ngeselin...sekedar buka sertifikat vaksin aja musti muter2 minimal 4x klik...akal2an,"['aplikasinya', 'buka', 'sertifikat', 'vaksin', 'minimal']","['aplikasi', 'buka', 'sertifikat', 'vaksin', 'minimal']"
+"Kenapa setelah di update malah gk bisa login, tolong segera di perbaiki.","['tolong', 'perbaiki']","['tolong', 'baik']"
+"akun saya tiba tiba ke logout sendiri, awal nya masih sempat masuk dan stuck loading terus, tiba tiba ada waktu sesi habis dan ke logout sendiri, sekarang saya mau login lagi menggunakan nomer ataupun email malah ga bisa, tulisan nya coba lagi nanti dan gitu terus, gimana nihhh, saya mau kemana mana jadi gabisa, btw saya udah vaksin booster, sudah suntik, dan sudah ampe 2 hari tetap juga masih belum muncul di akun PeduliLindungi saya, cuma ada vaksin 1 dan 2, saya minta tanggung jawab nya segera","['akun', 'masuk', 'sesi', 'habis', 'email', 'tulisan', 'coba', 'vaksin', 'booster', 'suntik', 'muncul', 'akun', 'pedulilindungi', 'vaksin', 'tanggung']","['akun', 'masuk', 'sesi', 'habis', 'email', 'tulis', 'coba', 'vaksin', 'booster', 'suntik', 'muncul', 'akun', 'pedulilindungi', 'vaksin', 'tanggung']"
+Bisa membantu dalam melindungi penyebaran covid di Indonesia,"['membantu', 'melindungi', 'penyebaran', 'covid', 'indonesia']","['bantu', 'lindung', 'sebar', 'covid', 'indonesia']"
+"Ini kenapa sih sistem. Minta pembaruan data, udah di upgrade gabisa dibuka. Pas bisa dibuka minta isi data baru. Pas baru ngisi eeeh selalu kembali ke data awal alias kosong. Nyusahin banget","['sistem', 'pembaruan', 'data', 'dibuka', 'dibuka', 'isi', 'data', 'data', 'kosong']","['sistem', 'baru', 'data', 'buka', 'buka', 'isi', 'data', 'data', 'kosong']"
+Makin update makin jelek😒,['jelek'],['jelek']
+Kurang akurat,['akurat'],['akurat']
+PeduliLindungi memang oke,['pedulilindungi'],['pedulilindungi']
+bagus,['bagus'],['bagus']
+APLIKASINYA SERING ERROR SUSAH MASUK KENAPA YAAAA ....???,"['aplikasinya', 'susah', 'masuk']","['aplikasi', 'susah', 'masuk']"
+Tidak bisa masuk. Terjadi kesalahan terus menerus,"['masuk', 'kesalahan', 'menerus']","['masuk', 'salah', 'terus']"
+Mau dipakai malah suruh relog,"['dipakai', 'suruh']","['pakai', 'suruh']"
+Ga bisa login. Web nya ga jelas.,['web'],['web']
+"Pagi ini error, bikin panik banyak orang. Kalau memang setiap manusia di Indonesia ini wajib pakai aplikasi ini, harusnya ngga bisa dibiarkan error begini. Ibarat nyuruh anak berkembang tapi ngga ngebolehin anak eksplorasi kemampuan. Payah.","['pagi', 'panik', 'manusia', 'indonesia', 'wajib', 'pakai', 'aplikasi', 'dibiarkan', 'anak', 'berkembang', 'anak', 'eksplorasi', 'kemampuan', 'payah']","['pagi', 'panik', 'manusia', 'indonesia', 'wajib', 'pakai', 'aplikasi', 'biar', 'anak', 'kembang', 'anak', 'eksplorasi', 'mampu', 'payah']"
+Gagal login terus bos udah uninstall download lagi berkali kali tetep aja gabisa masuk,"['gagal', 'berkali', 'masuk']","['gagal', 'kali', 'masuk']"
+Log out ..masuk lagi ulang dari awal.. mohon diperbaiki. Aplikasi sih ok..karena terintergrasi ke setiap aplkasi yg menyangkut kesehatan,"['masuk', 'ulang', 'mohon', 'diperbaiki', 'aplikasi', 'terintergrasi', 'kesehatan']","['masuk', 'ulang', 'mohon', 'baik', 'aplikasi', 'terintergrasi', 'sehat']"
+"Aplikasinya recehan nih selalu error dan setelah di update pasti data master di Peduli lindungi selalu hilang dan buat lagi. Makanya kalau buat aplikasi jangan recehan dong, punya dana besar masa buat aplikasi yg murahan.....","['aplikasinya', 'data', 'master', 'peduli', 'lindungi', 'hilang', 'aplikasi', 'dana', 'aplikasi', 'murahan']","['aplikasi', 'data', 'master', 'peduli', 'lindung', 'hilang', 'aplikasi', 'dana', 'aplikasi', 'murah']"
+"Hah.... apk gk guna sering error, Rabu 14 sep 2022 gagal ikut tes kerja karena apk gak guna ini gak bisa dibuka dasar apk pemotong rezeki #bgst","['rabu', 'gagal', 'kerja', 'dibuka', 'dasar', 'pemotong', 'rezeki']","['rabu', 'gagal', 'kerja', 'buka', 'dasar', 'potong', 'rezeki']"
+"Pagi min, hari ini peduli lindungi log out otomatis, dan ketika saya mau login baik melalui No Hp dan Email tdk bisa? Saya sdh mencoba untuk uninstall dan install kembali, namun tetap tdk bisa, mohon informasinya ada apa? Terima kasih.","['pagi', 'peduli', 'lindungi', 'otomatis', 'email', 'mencoba', 'mohon', 'informasinya', 'terima', 'kasih']","['pagi', 'peduli', 'lindung', 'otomatis', 'email', 'coba', 'mohon', 'informasi', 'terima', 'kasih']"
+"Habis update 14 sept 2022 jadi error' gak bisa scan QR, apakah ini tandanya semua kegiatan sudah gakperlu akses ini lagi ???","['habis', 'tandanya', 'kegiatan', 'akses']","['habis', 'tanda', 'giat', 'akses']"
+Kenapa tidak bisa masuk daftar,"['masuk', 'daftar']","['masuk', 'daftar']"
+Diupdate malah harus log in lagi. Berkali2 masukin no telp gak bisa. Gagal coba lagi. Payah aplikasi rumittttttttttttttt......!!!!!!! Dari awal muncul bikin rumit maunya apa nih aplikasi,"['berkali', 'masukin', 'gagal', 'coba', 'payah', 'aplikasi', 'muncul', 'rumit', 'maunya', 'aplikasi']","['kali', 'masukin', 'gagal', 'coba', 'payah', 'aplikasi', 'muncul', 'rumit', 'mau', 'aplikasi']"
+Ga ada guna.. Nguras uang rakyat,"['uang', 'rakyat']","['uang', 'rakyat']"
+Aplikasi ini susah dibuka. Sudah di update tapi tetap tidak bisa dibuka,"['aplikasi', 'susah', 'dibuka', 'dibuka']","['aplikasi', 'susah', 'buka', 'buka']"
+"Ini aplikasi apa""an sih? minta d upgrade mulu..tapi setelah di upgrade malah gak bisa masuk..daftar juga gak bisa..terus guna nya apa? Ini aplikasi punya pemerintah loh..dan aplikasi penting untuk kemana-mana trmasuk kerja..tapi kok JELEEKK begini sih? Malah nyusahin aja","['aplikasi', 'aplikasi', 'pemerintah', 'aplikasi']","['aplikasi', 'aplikasi', 'perintah', 'aplikasi']"
+Apk buat yang belom vaksin,['vaksin'],['vaksin']
+Udah di update malah sertifikat vaksin ilang . Terus juga lebih lama loading nya di bandingin streaming,"['sertifikat', 'vaksin']","['sertifikat', 'vaksin']"
+Habis update susah bwt login,"['habis', 'susah']","['habis', 'susah']"
+"dah lah ngga guna, lemot lodingnya tiap mau barcode scanner susah",['susah'],['susah']
+Terlalu sering diperbaharui,['diperbaharui'],['baharu']
+"Mohon diperbaiki,updte trz pada saat dibutuhkan malah eror, dan lama loadingnya,","['mohon', 'dibutuhkan']","['mohon', 'butuh']"
+"Aplikasi butut, buat login aja gak bisa 👎👎",['aplikasi'],['aplikasi']
+Saya blm bisa buka karena diupdate baru,['buka'],['buka']
+"Aplikasi apa ini. Mempersulit sekali. Sudah ber kali kali masuk dengan no hp dan email. Masih tetap tidak bisa. Selalu terjadi kesalahan. Sudah coba install ulang. Msih sama. Coba di hp lain juga masih sama. Percuma saja saya dan keluarga sudah vaksin dosis 1 dan 2 kalau tidak bisa dibuka aplikasinya, jdi tidak ada bukti bahwa sudah vaksin dosis 1 dan 2. Kalau mau lanjut ke vaksin booster jdi dipersulit.","['aplikasi', 'mempersulit', 'masuk', 'email', 'kesalahan', 'coba', 'ulang', 'coba', 'keluarga', 'vaksin', 'dosis', 'dibuka', 'aplikasinya', 'bukti', 'vaksin', 'dosis', 'vaksin', 'booster', 'dipersulit']","['aplikasi', 'sulit', 'masuk', 'email', 'salah', 'coba', 'ulang', 'coba', 'keluarga', 'vaksin', 'dosis', 'buka', 'aplikasi', 'bukti', 'vaksin', 'dosis', 'vaksin', 'booster', 'sulit']"
+"Setelah diupdate jadi tidak bisa login, padahal sudah mempunyai akun sebelumnya!",['akun'],['akun']
+Bagus,['bagus'],['bagus']
+Dengan vaksin kita jadi kuat,"['vaksin', 'kuat']","['vaksin', 'kuat']"
+"Macam mana ini aplikasi, sudah isi nomor HP aplikasi cuma muter2 ujung2nya ""country tidak dikenal"" ...bloon sekali yg buat aplikasi ini.hidup Bjorka","['aplikasi', 'isi', 'aplikasi', 'ujungnya', 'dikenal', 'aplikasi']","['aplikasi', 'isi', 'aplikasi', 'ujung', 'kenal', 'aplikasi']"
+Setelah di perbarui malah jadi busuk,['perbarui'],['baru']
+"setelah update gabisa masuk ke peduli lindungi nya yaa, dicoba install ulang malah gabisa login. padahal nomer telpon dan email sudah benar","['masuk', 'peduli', 'lindungi', 'dicoba', 'ulang', 'email']","['masuk', 'peduli', 'lindung', 'coba', 'ulang', 'email']"
+Pas mau masuk kerja ehh gagngun susah login .jadi sering di SP garagra ini payah Keseringan gangguan,"['masuk', 'kerja', 'susah', 'payah', 'keseringan', 'gangguan']","['masuk', 'kerja', 'susah', 'payah', 'sering', 'ganggu']"
+"Gak bisa masuk, terjadi kesalahan mulu","['masuk', 'kesalahan']","['masuk', 'salah']"
+"Setelah di update malah nggak bisa di pakai, , keluar mulu , , nggak mau scan QR, , ,masuk profile langsung keluar , , apakah update itu untuk sebuah kemunduran ?","['pakai', 'masuk', 'langsung', 'kemunduran']","['pakai', 'masuk', 'langsung', 'mundur']"
+Pembaruan terus tapi menu gitu2 aja,"['pembaruan', 'menu']","['baru', 'menu']"
+"Hr ini berangkat tp akunnya gbisa login, bikin susah","['berangkat', 'akunnya', 'susah']","['berangkat', 'akun', 'susah']"
+"Aplikasi apaansi, aku udah faksin pas mau masuk akun ku buat cek serifikat vaksin nya malah bulak balik ga bisa, masukin nik juga ga bisa anjim emng","['aplikasi', 'masuk', 'akun', 'vaksin', 'bulak', 'masukin']","['aplikasi', 'masuk', 'akun', 'vaksin', 'bulak', 'masukin']"
+Saya buka aplikasi tgl 13/9/22 ada pembaharuan. Namun setelah klik pembaharuan justru tidak bisa dibuka. Dibuka masuk ke setting awal dengan memasukan no HP / email. Begitu dimasukan nomor HP cuma putar putar melulu tidak bisa buka sama sekali,"['buka', 'aplikasi', 'pembaharuan', 'klik', 'pembaharuan', 'dibuka', 'dibuka', 'masuk', 'memasukan', 'email', 'dimasukan', 'putar', 'putar', 'buka']","['buka', 'aplikasi', 'baharu', 'klik', 'baharu', 'buka', 'buka', 'masuk', 'pasu', 'email', 'masuk', 'putar', 'putar', 'buka']"
+cukup baik dan cepat,['cepat'],['cepat']
+"Dipaksa pake aplikasi ini, tp error terus. Pagi-pagi buru-buru naik krl disuruh scan tapi aplikasinya error gabisa scan qrcode. Tolong lah diperbaiki error error yang sering terjadi seperti itu. Menyusahkan sekali.","['dipaksa', 'aplikasi', 'disuruh', 'aplikasinya', 'tolong', 'diperbaiki', 'menyusahkan']","['paksa', 'aplikasi', 'suruh', 'aplikasi', 'tolong', 'baik', 'susah']"
+Klaim sertifikat vaksin tgl lahir ga bisa di ketik bikin susah org ajah,"['klaim', 'sertifikat', 'vaksin', 'lahir', 'ketik', 'susah']","['klaim', 'sertifikat', 'vaksin', 'lahir', 'ketik', 'susah']"
+"Apaan dah setiap mau download sertifikat vaksin selalu aja lari nya login dulu, udh tau di aplikasi udh terdaftar disitu. Gimana kali","['sertifikat', 'vaksin', 'lari', 'aplikasi', 'terdaftar', 'disitu']","['sertifikat', 'vaksin', 'lari', 'aplikasi', 'daftar', 'situ']"
+"Astaghfirullah mau liat sertifikat vaksin susahnya bukan main suruh login terlebih dahulu padahal saya sudah masuk dengan email / no hp terdaftar tapi gak bisa masuk"" aplikasinya kebanyakan loading gak jelas sama kaya kepemerintahan indo jadi emosi di saat"" di butuhkan. Benci banget sama pemerintah Indonesia,","['sertifikat', 'vaksin', 'susahnya', 'main', 'suruh', 'masuk', 'email', 'terdaftar', 'masuk', 'aplikasinya', 'kepemerintahan', 'emosi', 'butuhkan', 'benci', 'pemerintah', 'indonesia']","['sertifikat', 'vaksin', 'susah', 'main', 'suruh', 'masuk', 'email', 'daftar', 'masuk', 'aplikasi', 'perintah', 'emosi', 'butuh', 'benci', 'perintah', 'indonesia']"
+ingin masuk aplikasi kenapa tidak bisa ya padahal saya mau cetak sertifikat vaksin saya,"['masuk', 'aplikasi', 'cetak', 'sertifikat', 'vaksin']","['masuk', 'aplikasi', 'cetak', 'sertifikat', 'vaksin']"
+sejak di perbarui tidak bisa masuk eeeerrrrooorrrrr,"['perbarui', 'masuk']","['baru', 'masuk']"
+Responsif,['responsif'],['responsif']
+gobllogd aplikasi tejelas sok ngeleg jaringan mah lancar,"['aplikasi', 'jaringan', 'lancar']","['aplikasi', 'jaring', 'lancar']"
+dikit dikit update. mna klo blm update gamau ke buka apk nya .. klo ga wajib di perusaan mh dah gw uninstal,"['buka', 'wajib']","['buka', 'wajib']"
+Apk pembaruan tambah parah,"['pembaruan', 'parah']","['baru', 'parah']"
+"Ketika dibutuhkan segera malah lama loadingnya, login ulang gagal. Gimana ini kemenkes? :(","['dibutuhkan', 'ulang', 'gagal', 'kemenkes']","['butuh', 'ulang', 'gagal', 'kemenkes']"
+Selalu minta diperbaharui dan susah dibuka😏,"['diperbaharui', 'susah', 'dibuka']","['baharu', 'susah', 'buka']"
+"yang buat aplikasi pea, gw mau berangkat udah boster malah eror ke ditec nya vaksin ke dua lagi","['aplikasi', 'berangkat', 'boster', 'vaksin']","['aplikasi', 'berangkat', 'boster', 'vaksin']"
+"Kenapa tida bisa login menggunakan nomor telpon yang terdaftar, ..",['terdaftar'],['daftar']
+Daftar akun aja ga bisa,"['daftar', 'akun']","['daftar', 'akun']"
+up det mulu giliran di updet gak bisa masuk,"['giliran', 'masuk']","['gilir', 'masuk']"
+Error habis diperbaharui malah logout sendiri mau login lagi tambah ribet,"['habis', 'diperbaharui', 'ribet']","['habis', 'baharu', 'ribet']"
+Sering update malah gk bisa masuk,['masuk'],['masuk']
+"Ini mau Masuk Akun kok gak bisa udah berkali-kali dicoba terjadi kesalahan terus. Padahal udah pernah login, saya coba daftar ulang malah udah mengirim 3 kali kode Verifikasi. Kan aneh ini gimana???","['masuk', 'akun', 'dicoba', 'kesalahan', 'coba', 'daftar', 'ulang', 'mengirim', 'kode', 'verifikasi', 'aneh']","['masuk', 'akun', 'coba', 'salah', 'coba', 'daftar', 'ulang', 'kirim', 'kode', 'verifikasi', 'aneh']"
+"Aplikasi harus masuk ulang dan daftar ulang, dicoba berkali kali tidak bisa, padahal cuma mau cek sertifikat vaksin saja","['aplikasi', 'masuk', 'ulang', 'daftar', 'ulang', 'dicoba', 'berkali', 'sertifikat', 'vaksin']","['aplikasi', 'masuk', 'ulang', 'daftar', 'ulang', 'coba', 'kali', 'sertifikat', 'vaksin']"
+suka kendala scan barcode,"['suka', 'kendala']","['suka', 'kendala']"
+habis diupdate makin ribet,"['habis', 'ribet']","['habis', 'ribet']"
+semoga semakin baik,['semoga'],['moga']
+"Gabisa masuk terus, sudah uninstall - reinstall - restart hp - login dari web . Semua sudah dilakuin tapi tetep gabisa masuk","['masuk', 'web', 'masuk']","['masuk', 'web', 'masuk']"
+"Setiap akan dibuka loadingnya sangat lama. Ketika sudah berhasil terbuka aplikasinya, setiap mau masuk ke sub menu sangat amat berat bahkan sampai no respon. Tolong kalau kerja yang serius. Jangan banyak gabutnya. Buat aplikasi seperti ini aja ga becus. Bukannya mempermudah malah mempersulit.","['dibuka', 'berhasil', 'terbuka', 'aplikasinya', 'masuk', 'menu', 'berat', 'respon', 'tolong', 'kerja', 'serius', 'aplikasi', 'mempermudah', 'mempersulit']","['buka', 'hasil', 'buka', 'aplikasi', 'masuk', 'menu', 'berat', 'respon', 'tolong', 'kerja', 'serius', 'aplikasi', 'mudah', 'sulit']"
+Aplikasi terlalu sering update,['aplikasi'],['aplikasi']
+Aplikasi macam apa ini login susah banget tolong betulin,"['aplikasi', 'susah', 'tolong']","['aplikasi', 'susah', 'tolong']"
+Banyak masalahnya susah di buka loading terus,"['susah', 'buka']","['susah', 'buka']"
+"Diperbaharui malah sulit dibuka, entahlah😂😂😂","['diperbaharui', 'sulit', 'dibuka']","['baharu', 'sulit', 'buka']"
+.pembaruan plh tambah susahh...kurang respon jugaa...knapa suruh daftar lagi...,"['pembaruan', 'respon', 'suruh', 'daftar']","['baru', 'respon', 'suruh', 'daftar']"
+"Ko Gabisa donwlod sertivikat booster,ko ada perbaruan gabisa kebuka siih","['perbaruan', 'kebuka']","['baru', 'buka']"
+"Rusak, setelah update tidak bisa masuk untuk lihat sertifikas walaupun sudah di isi email","['rusak', 'masuk', 'lihat', 'isi', 'email']","['rusak', 'masuk', 'lihat', 'isi', 'email']"
+program aplikasinya mengalami gangguan login....tolong segera ditangani karena saya tidak bisa login sejak 2 jam yang lalu,"['program', 'aplikasinya', 'mengalami', 'gangguan', 'ditangani', 'jam']","['program', 'aplikasi', 'alami', 'ganggu', 'tangan', 'jam']"
+"Lagi buru"" Masuk stasiun harus scan pedulilundung, tetapi peduli lindungi susah sekali kebukanya, mungkin harus di kasih fitur pas buka pedulilindungi gak usah pake jaringan","['masuk', 'stasiun', 'pedulilundung', 'peduli', 'lindungi', 'susah', 'kebukanya', 'kasih', 'fitur', 'buka', 'pedulilindungi', 'jaringan']","['masuk', 'stasiun', 'pedulilundung', 'peduli', 'lindung', 'susah', 'buka', 'kasih', 'fitur', 'buka', 'pedulilindungi', 'jaring']"
+BLOK. BIKIN APLIKASI GK JELAS SAT. BUKANNYA MEMPERMUDAH MALAH MEMPERSULIT. DULU LANCAR AJA BUKA DAN SCAN SEKARANG LEMOT NYA MINTA AMPUN. JGN BILANG GINIAN DOANG KENA HACKER,"['blok', 'aplikasi', 'mempermudah', 'mempersulit', 'lancar', 'buka', 'ampun', 'bilang']","['blok', 'aplikasi', 'mudah', 'sulit', 'lancar', 'buka', 'ampun', 'bilang']"
+"Diperbaharui malah gak bisa masuk, aneh aplikasinya","['diperbaharui', 'masuk', 'aneh', 'aplikasinya']","['baharu', 'masuk', 'aneh', 'aplikasi']"
+"Aplikasi tolol,selalu update tapi tidak bisa digunakan",['aplikasi'],['aplikasi']
+Habis update malah gbsa buka aplikasi,"['habis', 'buka', 'aplikasi']","['habis', 'buka', 'aplikasi']"
+"Bang bantuin buat masuk lah bang, saya perlu buat kerja nih","['masuk', 'kerja']","['masuk', 'kerja']"
+akhir akhir ini apps nya sering crash yang menyebabkan apps sering ke logout otomatis,"['menyebabkan', 'otomatis']","['sebab', 'otomatis']"
+"Apps nya eror ni, saya login masa gabisa terjadi kesalahan terus aduhh",['kesalahan'],['salah']
+Aplikasi ini belum bagus masih banyak yg harus dibenahi tp anehnya aplikasi ini berusaha monopoli namun seiring pulihnya kita dari covid 19 sebaiknya aplikasi ini ga perlu dipake lagi,"['aplikasi', 'bagus', 'dibenahi', 'anehnya', 'aplikasi', 'berusaha', 'monopoli', 'pulihnya', 'covid', 'aplikasi']","['aplikasi', 'bagus', 'benah', 'aneh', 'aplikasi', 'usaha', 'monopoli', 'pulih', 'covid', 'aplikasi']"
+Selalu terupdate informasi terbaru,"['informasi', 'terbaru']","['informasi', 'baru']"
+"Setelah di update tambah lemot, untuk login susah",['susah'],['susah']
+Bagus,['bagus'],['bagus']
+Kenapa tidak bisa login Setiap login selalu ada tulisan Terjadi kesalahan,"['tulisan', 'kesalahan']","['tulis', 'salah']"
+Efektif dan cepat,"['efektif', 'cepat']","['efektif', 'cepat']"
+"Lumayan bagus aplikasi nya, saya sangat menyukai nya...","['lumayan', 'bagus', 'aplikasi', 'menyukai']","['lumayan', 'bagus', 'aplikasi', 'suka']"
+"Abis di update malah tambah parah. Gak bisa scan kode, login buat liat sertifikat vaksin malah gak bisa baik di situs sama aplikasi. Harusnya mah kalo update, tambah bener aplikasinya bukan tambah masalah baru bagi penggunanya. Tolong di fix setelahnya, saya susah kerja kalau begini.","['parah', 'kode', 'sertifikat', 'vaksin', 'situs', 'aplikasi', 'aplikasinya', 'penggunanya', 'tolong', 'susah', 'kerja']","['parah', 'kode', 'sertifikat', 'vaksin', 'situs', 'aplikasi', 'aplikasi', 'guna', 'tolong', 'susah', 'kerja']"
+"gk masuk” pdhl lg penting,ribetin","['masuk', '”']","['masuk', '']"
+RUMIT SERING BANGET NYURUH UPGRADE TAPI SETELAH UPGRADE MALAH GAK BISA LOG IN.,['rumit'],['rumit']
+Aplikasi eror jelek banget,"['aplikasi', 'jelek']","['aplikasi', 'jelek']"
+"Bro, kenapa apk ini ga ad di hp samsung mini? Apakah tidak support dg hp jadul?",['samsung'],['samsung']
+Aplikasi nya tidak bisa d buka daftar juga gagal trus padahal kuota banyak..payah,"['aplikasi', 'buka', 'daftar', 'gagal', 'kuota']","['aplikasi', 'buka', 'daftar', 'gagal', 'kuota']"
+Ga bs dipake aplikasinya. Buffer terus. Ga jelas.,['aplikasinya'],['aplikasi']
+"Aplikasi apaan dah, nggak bisa masuk sama sekali","['aplikasi', 'masuk']","['aplikasi', 'masuk']"
+"Aplikasi bikin ribet. Fungsi ga jelas, logout sendiri terus.","['aplikasi', 'ribet', 'fungsi']","['aplikasi', 'ribet', 'fungsi']"
+"Apa sih?! kok gabisa login terusss!! udh coba ulang² tetep gabisa login, kelamaan jadi males nunggunya!","['coba', 'ulang', 'nunggunya']","['coba', 'ulang', 'nunggunya']"
+"Aplikasi tidak bisa di update, lag ditengah jalan. Saat dibatalkan update, play store ikut lag, saya coba uninstal dan itupun harus berkali², dan kembali saya download ulang, tetap lag ditengah/di'73% saat mendownload! Tolong Segera perbaiki bug","['aplikasi', 'ditengah', 'jalan', 'dibatalkan', 'coba', 'berkali', 'ulang', 'tolong', 'perbaiki']","['aplikasi', 'tengah', 'jalan', 'batal', 'coba', 'kali', 'ulang', 'tolong', 'baik']"
+Sangat baik dan bagus,['bagus'],['bagus']
+"Klo buat aplikasi yg benerlah, masa eror mulu..",['aplikasi'],['aplikasi']
+Sering crushing. Skrg malah isinya time out melulu ga bs akses. Pdhal awalnya bagus. Setelah update lgsg rusak,"['isinya', 'akses', 'bagus', 'rusak']","['isi', 'akses', 'bagus', 'rusak']"
+aplikasi eror kek babi,['aplikasi'],['aplikasi']
+Mudah terbang kemana aja,"['mudah', 'terbang']","['mudah', 'terbang']"
+"Udah berkali kali uninstal tetep ga bisa masuk ya ke aplikasi nya tolong di perbaiki sistem nya, repot kalo gini ga bisa scan barcode, mau login terjadi kesalahan terus","['berkali', 'masuk', 'aplikasi', 'tolong', 'perbaiki', 'sistem', 'repot', 'kesalahan']","['kali', 'masuk', 'aplikasi', 'tolong', 'baik', 'sistem', 'repot', 'salah']"
+"Akun tiba tiba keluar dari aplikasi,dan harus login ulang..no hp dan email udah betul saat masuk tidak bisa katanya terjadi kesalahan..tolonglah perbaiki lagi jangan menyusahkan pengguna,kami juga yg repot...","['akun', 'email', 'masuk', 'perbaiki', 'menyusahkan', 'repot']","['akun', 'email', 'masuk', 'baik', 'susah', 'repot']"
+Aplikasi rusak,"['aplikasi', 'rusak']","['aplikasi', 'rusak']"
+Terjadi kesalahan terus sewaktu login padahal sudah punya akun dan sudah ikut vaksin sampai booster,"['kesalahan', 'akun', 'vaksin', 'booster']","['salah', 'akun', 'vaksin', 'booster']"
+Sumpah pas update malah ngaco aplikasi nya parah...,"['sumpah', 'aplikasi', 'parah']","['sumpah', 'aplikasi', 'parah']"
+Mantap,['mantap'],['mantap']
+"hedeh hari2 bukan makin bagus malah makin ribet aplikasinya, udah loading nya lama mau liat sertifikat vaksin juga harus ngisi data dll padahl di versi sebelumnya udah ngisi pas awal daftar aplikasi pemerintah emg ga ada yg bener","['bagus', 'ribet', 'aplikasinya', 'sertifikat', 'vaksin', 'data', 'versi', 'daftar', 'aplikasi', 'pemerintah']","['bagus', 'ribet', 'aplikasi', 'sertifikat', 'vaksin', 'data', 'versi', 'daftar', 'aplikasi', 'perintah']"
+Ribet juga,['ribet'],['ribet']
+Cek bantuan BLT,['bantuan'],['bantu']
+Hingga copit punah,['punah'],['punah']
+Sumpah ya eror terus abis di upgrade mlh ga bisa di buka,"['sumpah', 'buka']","['sumpah', 'buka']"
+"Aplikasi nya knapa ga bisa masuk akun ya, padahal sdah masukkan email...??","['aplikasi', 'masuk', 'akun', 'masukkan', 'email']","['aplikasi', 'masuk', 'akun', 'masuk', 'email']"
+"Sebentar lagi mau berangkat, tapi gak bisa login! Gimana ya?","['sebentar', 'berangkat']","['sebentar', 'berangkat']"
+"Aplikasinya bnyak tingkah selalu terjadi kesalahan di ulng"" trus sy bukan robot ngga bsa masuk sma sekali","['aplikasinya', 'tingkah', 'kesalahan', 'robot', 'masuk']","['aplikasi', 'tingkah', 'salah', 'robot', 'masuk']"
+Top,['top'],['top']
+"Buruk waktu mau cek d aplikasi ternyata TDK bs trs uninstall dan update kemudian coba masuk sesuai petunjuk ternyata TDK bisa jwb terjadi kesalahan pdhl no dan email sdh sesuai TDK berubah, bnr2 aplikasi buruk sekali","['buruk', 'aplikasi', 'coba', 'masuk', 'petunjuk', 'kesalahan', 'email', 'berubah', 'aplikasi', 'buruk']","['buruk', 'aplikasi', 'coba', 'masuk', 'tunjuk', 'salah', 'email', 'ubah', 'aplikasi', 'buruk']"
+"Bayak tempat mengharuskan scan barcode,,aplikasi gak mendukung,,hubungi segera semua pihak lokasi tanggalkan kewajiban scan barcode peduli lindungi sebelum aplikasi sempurna","['mengharuskan', 'lokasi', 'kewajiban', 'peduli', 'lindungi', 'aplikasi', 'sempurna']","['harus', 'lokasi', 'wajib', 'peduli', 'lindung', 'aplikasi', 'sempurna']"
+"Mau login ga ada pergerakan sama sekali, udah klik pake nomor telpon, pakai email, tetep aja di halaman menu utama login. Memori juga mash longgar banget wkwkwk","['klik', 'pakai', 'email', 'halaman', 'menu', 'utama', 'memori']","['klik', 'pakai', 'email', 'halaman', 'menu', 'utama', 'memori']"
+Nyusahin aplikasi lo . Dah bener ada di grab sama gojek .. aplikasi susah dibuka pula,"['aplikasi', 'aplikasi', 'susah', 'dibuka']","['aplikasi', 'aplikasi', 'susah', 'buka']"
+Udah di pebarui masuk ko malah sulit,"['pebarui', 'masuk', 'sulit']","['baru', 'masuk', 'sulit']"
+"Setelah update Masa sertifikat vaksinnya hilang,padahal sebelum update di cek sertifikatnya masih ada,ada tambahan lagi nih ada pop up sesi anda telah habis terus di suruh login ulang, pas login dan sudah masukkin nomer tlp malah ga bisa masuk stuck di menu login ,sudah di coba pakai WiFi juga sama ,padahal sinyal juga aman","['sertifikat', 'vaksinnya', 'sertifikatnya', 'tambahan', 'sesi', 'habis', 'suruh', 'ulang', 'masuk', 'menu', 'coba', 'pakai', 'sinyal', 'aman']","['sertifikat', 'vaksin', 'sertifikat', 'tambah', 'sesi', 'habis', 'suruh', 'ulang', 'masuk', 'menu', 'coba', 'pakai', 'sinyal', 'aman']"
+"Kenapa aplikasinya tiba tiba keluar😭terus dicoba masuk kembali tapi gabisa pake nomer hp gabisa pake email juga gabisa, sampek copot pemasangan 3 kali masih gabisa, terjadi eror coba lagi kembali, keluar tulisan gitu terus😭tolong dong penting buat kerja ini","['aplikasinya', 'dicoba', 'masuk', 'email', 'copot', 'pemasangan', 'coba', 'tulisan', 'kerja']","['aplikasi', 'coba', 'masuk', 'email', 'copot', 'pasang', 'coba', 'tulis', 'kerja']"
+"Aplikasi bermasalah terus, tidak bisa masuk.","['aplikasi', 'bermasalah', 'masuk']","['aplikasi', 'masalah', 'masuk']"
+Bagus,['bagus'],['bagus']
+Kualitas sangat buruk Loading lama Loading gagal Masuk susah,"['kualitas', 'buruk', 'gagal', 'masuk', 'susah']","['kualitas', 'buruk', 'gagal', 'masuk', 'susah']"
+Parahnya bngtan,['parahnya'],['parah']
+Banyak bug padaha aplikasi penting,['aplikasi'],['aplikasi']
+"Terlalu rumit tu mencari Tanggal lahir, mohon di update biar tanggal lahir dan tahunnya bisa di masukkan manual, terlalu lama scroll nya menuju tahun kelahiran yg lbh tua","['rumit', 'mencari', 'tanggal', 'lahir', 'mohon', 'tanggal', 'lahir', 'tahunnya', 'masukkan', 'manual', 'kelahiran', 'tua']","['rumit', 'cari', 'tanggal', 'lahir', 'mohon', 'tanggal', 'lahir', 'tahun', 'masuk', 'manual', 'lahir', 'tua']"
+Hp saya ilang terus gmana carany biar semua data peduli lindungi ada no emailnya lupa sm password nya jg,"['data', 'peduli', 'lindungi', 'lupa', 'password']","['data', 'peduli', 'lindung', 'lupa', 'password']"
+"Mohon izin kepada pemilik atau pengelola aplikasi peduliLindungi...mohon di perbaiki lagi aplikasi nya ,masa saya mau masuk ke peduliLindungi selalu ada tulisan (terjadi kesalahan terus) . Tolong ya perbaiki lagi... terima kasih semoga langsung di respon untuk perbaikan nya","['mohon', 'izin', 'pemilik', 'pengelola', 'aplikasi', 'perbaiki', 'aplikasi', 'masuk', 'pedulilindungi', 'tulisan', 'kesalahan', 'tolong', 'perbaiki', 'terima', 'kasih', 'semoga', 'langsung', 'respon', 'perbaikan']","['mohon', 'izin', 'milik', 'kelola', 'aplikasi', 'baik', 'aplikasi', 'masuk', 'pedulilindungi', 'tulis', 'salah', 'tolong', 'baik', 'terima', 'kasih', 'moga', 'langsung', 'respon', 'baik']"
+"Aplikasi nya keluar-keluar mulu, berkali-kali kalau mau dipake pasti harus di instal-uninstal. Kan jadi bingung, mana kalau mau ngescan ngantri, tolong dong di perbaiki. Apalagi belakangan ini scan pakai peduli lindungi diterapkan lgi","['aplikasi', 'bingung', 'tolong', 'perbaiki', 'pakai', 'peduli', 'lindungi', 'diterapkan']","['aplikasi', 'bingung', 'tolong', 'baik', 'pakai', 'peduli', 'lindung', 'terap']"
+Aplikasi susah masuk,"['aplikasi', 'susah', 'masuk']","['aplikasi', 'susah', 'masuk']"
+Sangat memuaskan pelayanannya,"['memuaskan', 'pelayanannya']","['muas', 'layan']"
+"Aplikasi setelah di update tidak bisa login, padahal telah punya akun, diminta no telfon atau email tetap tidak bisa masuk, sewaktu mau login, ada kode OTP, kode OTP mau dimasukkan kemana? Kode OTP mau dimasukkan kemana, tidak ada tempatnya, aplikasi tidak jelas.","['aplikasi', 'akun', 'email', 'masuk', 'kode', 'kode', 'dimasukkan', 'kode', 'dimasukkan', 'tempatnya', 'aplikasi']","['aplikasi', 'akun', 'email', 'masuk', 'kode', 'kode', 'masuk', 'kode', 'masuk', 'tempat', 'aplikasi']"
+Kenapa ga bisa login?? Orang udah berkali2 masuk.. ga mutu bett anj*ng,"['berkali', 'masuk', 'mutu']","['kali', 'masuk', 'mutu']"
+"Aplikasi gak bisa di buka,minta di perbahsrui,tapi setelah mau di perbaharui gak bisa...gimana dong ini solusinya????","['aplikasi', 'perbaharui', 'solusinya']","['aplikasi', 'baharu', 'solusi']"
+Ribet,['ribet'],['ribet']
+"Saya perbaharui aplikasinya tpi semua riwayat vaksin saya mulai 1 sampai 3 hilang, jadi sy bingun sndri apakah hp sy yg rusak atau aplikasinya sedang bermasalah","['perbaharui', 'aplikasinya', 'riwayat', 'vaksin', 'hilang', 'rusak', 'aplikasinya', 'bermasalah']","['baharu', 'aplikasi', 'riwayat', 'vaksin', 'hilang', 'rusak', 'aplikasi', 'masalah']"
+Mau lihat sertifikat saja tidak nongol nongol. Check in jg gak bisa. Ampun dah,"['lihat', 'sertifikat', 'ampun']","['lihat', 'sertifikat', 'ampun']"
+Sangat bagus,['bagus'],['bagus']
+Ok. Lbh cepat barcod dg scan lewat hp,['cepat'],['cepat']
+Data sertifikat vaksin nya ko GK masuk di aplikasi ini nya shii,"['data', 'sertifikat', 'vaksin', 'masuk', 'aplikasi']","['data', 'sertifikat', 'vaksin', 'masuk', 'aplikasi']"
+Aplikasi update Mulu,['aplikasi'],['aplikasi']
+Beri tahu saya apa yang mbuat saya tidak memberikan penilaian terbaik ))),"['penilaian', 'terbaik']","['nilai', 'baik']"
+Mantap,['mantap'],['mantap']
+Keren sih cmn mau cetak kartu vaksin ga bisa trus,"['keren', 'cetak', 'kartu', 'vaksin']","['keren', 'cetak', 'kartu', 'vaksin']"
+Saya bingung emang update 1tahun berapa x .masa update terus bulan2nya,"['bingung', 'bulannya']","['bingung', 'bulan']"
+terimakasih,['terimakasih'],['terimakasih']
+Aplikasi banyak update tapi ga ada perbedaan nya,"['aplikasi', 'perbedaan']","['aplikasi', 'beda']"
+Sangat bermanfaat,['bermanfaat'],['manfaat']
+Aplikasi ini ok mudh di mngerti,['aplikasi'],['aplikasi']
+Bosan update melulu..,['bosan'],['bosan']
+Kita aman dan selalu sehat,"['aman', 'sehat']","['aman', 'sehat']"
+mohon dibantu aplikasi tdk bisa dibuka setelah update.tks,"['mohon', 'dibantu', 'aplikasi', 'dibuka']","['mohon', 'bantu', 'aplikasi', 'buka']"
+sangat membantu!!,['membantu'],['bantu']
+Bagus bgt,['bagus'],['bagus']
+Sangat membantu,['membantu'],['bantu']
+"Sangat membantu dalam segala proses, mempercepat proses","['membantu', 'proses', 'mempercepat', 'proses']","['bantu', 'proses', 'cepat', 'proses']"
+Sangat membantu,['membantu'],['bantu']
+Aplikasinya minta update terus,['aplikasinya'],['aplikasi']
+"Kenapa setiap kali mau digunakan selalu minta di upgrade, klo lagi buru2 sangat mengganggu sekali",['mengganggu'],['ganggu']
+Bagus,['bagus'],['bagus']
+"Jangan terlalu sering melakukan pembaruan atau update. Terlalu memakan banyak ruang, minimal update 6 bulan sekali. Terima kasih.","['pembaruan', 'memakan', 'ruang', 'minimal', 'terima', 'kasih']","['baru', 'makan', 'ruang', 'minimal', 'terima', 'kasih']"
+Oke bagus,['bagus'],['bagus']
+"Aplikasi gk jelassss,, didownload malah gk bisa blokkk",['aplikasi'],['aplikasi']
+"Belum lama di update di tgl 6 SEP,minta update lagi,udah tau kuota gw nipis,",['kuota'],['kuota']
+Mantap ada peduli lindungi,"['mantap', 'peduli', 'lindungi']","['mantap', 'peduli', 'lindung']"
+mantap,['mantap'],['mantap']
+Lumayan,['lumayan'],['lumayan']
+Buka aplikasi dipaksa update. Setelah update malah gak bisa dibuka. Parah,"['buka', 'aplikasi', 'dipaksa', 'dibuka', 'parah']","['buka', 'aplikasi', 'paksa', 'buka', 'parah']"
+Aplikasinya jelek sekali nga update... Sy sdh booster tp statusnya masih kuning. Aplikasi yg sangat tidak berguna. Pemerintah buang2 anggaran saja ntk membuat aplikasi ini,"['aplikasinya', 'jelek', 'booster', 'statusnya', 'kuning', 'aplikasi', 'berguna', 'pemerintah', 'buang', 'anggaran', 'aplikasi']","['aplikasi', 'jelek', 'booster', 'status', 'kuning', 'aplikasi', 'guna', 'perintah', 'buang', 'anggar', 'aplikasi']"
+APLIKASI BIKIN RIBET!,"['aplikasi', 'ribet']","['aplikasi', 'ribet']"
+"Terimakasih sudah membantu walau belum semuanya di approved,,namun tolong data vaksin saya yang kedua di approved jugak please,,🙏🙏🙏","['terimakasih', 'membantu', 'tolong', 'data', 'vaksin']","['terimakasih', 'bantu', 'tolong', 'data', 'vaksin']"
+Luaŕ biasa.sukses indonesia sehat,"['luaŕ', 'indonesia', 'sehat']","['lua', 'indonesia', 'sehat']"
+Smoga membantu,['membantu'],['bantu']
+Mantap,['mantap'],['mantap']
+aplikasi sdah bgus trima kasih,"['aplikasi', 'kasih']","['aplikasi', 'kasih']"
+pelayanan ramah,"['pelayanan', 'ramah']","['layan', 'ramah']"
+Ngomong omong Vaksin Keh 4 Ada enga Nih Admin Pingin Vaksin lagi Kalau ada hahahaha mampus gw,"['vaksin', 'vaksin', 'mampus']","['vaksin', 'vaksin', 'mampus']"
+Ribet bgt daftarnya,"['ribet', 'daftarnya']","['ribet', 'daftar']"
+Heran sering banget minta di update,['heran'],['heran']
+"Ga bisa di install, sumpah lillahi taala Klo ga niat bikin apk jangan bikin lah, sumber untuk sertifikat vaksin cuman disini😡","['sumpah', 'niat', 'sumber', 'sertifikat', 'vaksin']","['sumpah', 'niat', 'sumber', 'sertifikat', 'vaksin']"
+Kok tidak bisa di update sih pun ya saya udah sampe 100 download nya terus tulisanya download gagal tolong perbaiki lagi,"['tulisanya', 'gagal', 'tolong', 'perbaiki']","['tulisanya', 'gagal', 'tolong', 'baik']"
+"Susah mengakses info ttg tgl terakhir swab antigen, dan sertifikat vaksin","['susah', 'mengakses', 'info', 'swab', 'antigen', 'sertifikat', 'vaksin']","['susah', 'akses', 'info', 'swab', 'antigen', 'sertifikat', 'vaksin']"
+Sangat membantu,['membantu'],['bantu']
+Bagus,['bagus'],['bagus']
+Kurang bagus.,['bagus'],['bagus']
+Bagus,['bagus'],['bagus']
+Lemot parah scanya,['parah'],['parah']
+Aplikasi tolol pembaruan mulu mengutukan orang lain,"['aplikasi', 'pembaruan']","['aplikasi', 'baru']"
+Install gagal terus Ukuran aplikasi berubah-ubah,"['gagal', 'ukuran', 'aplikasi']","['gagal', 'ukur', 'aplikasi']"
+Ini kenpa setelah di perbarui malah gak bisa di buka kk,"['perbarui', 'buka']","['baru', 'buka']"
+membantu,['membantu'],['bantu']
+"Saya uda boster, tpi knp di aplikasi selalu disuruh boster, kan aneh","['boster', 'aplikasi', 'disuruh', 'boster', 'aneh']","['boster', 'aplikasi', 'suruh', 'boster', 'aneh']"
+Karena vaksin Indonesia sehat,"['vaksin', 'indonesia', 'sehat']","['vaksin', 'indonesia', 'sehat']"
+Peduli sangat membantu jadi yg vaksin di luar negeri vaksin ke 1 dan ke 2 tidak prlu vaksin pertama lagi di indo lagsung vaksin ke 3 aja mantap peduli lingdung..itu yg buat WNI sngt mudah mau kemana mana lagi,"['peduli', 'membantu', 'vaksin', 'negeri', 'vaksin', 'vaksin', 'vaksin', 'mantap', 'peduli', 'mudah']","['peduli', 'bantu', 'vaksin', 'negeri', 'vaksin', 'vaksin', 'vaksin', 'mantap', 'peduli', 'mudah']"
+Lumayan ggk usah bawa kertas lagi kmna2,"['lumayan', 'bawa', 'kertas']","['lumayan', 'bawa', 'kertas']"
+Puas dengan aplikasi ini,"['puas', 'aplikasi']","['puas', 'aplikasi']"
+Sebenarnya mempersulit kita utk kemana2 dan data pribadi beresiko utk di ambil org.,"['mempersulit', 'data', 'pribadi', 'beresiko', 'ambil']","['sulit', 'data', 'pribadi', 'resiko', 'ambil']"
+ Pak Totok.. Dari 30 pegawai yg bisa ikut pelatihan (inda dan TF) bisa berapa orang...? 25..? 16+9....? Masih bisa nambah [3/9 19:34] Saechudin: tdk harus ngajar [4/9 04:56] Totok Tavirijanto: maksimal tambah 7 saja ya[4/9 05:08] Saechudin: Okay siap... Surakarta 23 ya.. Tks [4/9 05:12] Totok Tavirijanto: sit in lho.. untuk inda nya kami yg atur... b [4/9 05:13] Saechudinb ffxdb tj: Siap,"['pegawai', 'pelatihan', 'nambah', 'maksimal', 'atur']","['pegawai', 'latih', 'nambah', 'maksimal', 'atur']"
+"Sekedar saran, sebaiknya pencairan BANSOS melalui Aplikasi ini, jadi lebih tepat sasaran dan tidak mengendap di titik tertentu yang terkait yang berfotensi ketidak amanahan, jadi lebih epektif pencairan BANSOS melalui aplikasi ini..","['saran', 'pencairan', 'bansos', 'aplikasi', 'sasaran', 'titik', 'terkait', 'pencairan', 'bansos', 'aplikasi']","['saran', 'cair', 'bansos', 'aplikasi', 'sasar', 'titik', 'kait', 'cair', 'bansos', 'aplikasi']"
+Cape banget ya harus perbaharui terus....,['perbaharui'],['baharu']
+terlalu sering pembaharuan . amat merepotkan .,"['pembaharuan', 'merepotkan']","['baharu', 'repot']"
+Sering error dan lelet,['lelet'],['lelet']
+Aplikasi makin lemot banget,['aplikasi'],['aplikasi']
+Sangat membantu,['membantu'],['bantu']
+"Mengecewakan, sertifikat ke 2 saya tidak keluar","['mengecewakan', 'sertifikat']","['kecewa', 'sertifikat']"
+"Husnudzon, selallu berprasangka baik semoga selallu diberikan kesehatan dan murah rizki. Semoga selallu diberikan berkah rizki yang melimpah barokah. Aamiin","['berprasangka', 'semoga', 'kesehatan', 'murah', 'semoga', 'berkah', 'melimpah']","['prasangka', 'moga', 'sehat', 'murah', 'moga', 'berkah', 'limpah']"
+Data kebobolan mmng ga bs diharepin,"['data', 'kebobolan']","['data', 'bobol']"
+Lambat n menghambat....lbh praktis dunk,"['lambat', 'praktis']","['lambat', 'praktis']"
+Sangat buruk,['buruk'],['buruk']
+Lancar dalam perjalanan...,"['lancar', 'perjalanan']","['lancar', 'jalan']"
+Kebanyakan update ngabisin memori dan kuota. Pelanggaran HAM bener bener yak ini kayaknya,"['memori', 'kuota', 'pelanggaran']","['memori', 'kuota', 'langgar']"
+Top,['top'],['top']
+Bagus membantu untuk bisa mudik,"['bagus', 'membantu', 'mudik']","['bagus', 'bantu', 'mudik']"
+Sangat membantu,['membantu'],['bantu']
+Abis di apdate langsung eror,['langsung'],['langsung']
+Ribet update mulu,['ribet'],['ribet']
+Sangat Membantu dengan adanya vaksinasi ini,"['membantu', 'vaksinasi']","['bantu', 'vaksinasi']"
+SEMOGA SUKSE SELALU ATAS APLIKASINYA.,"['semoga', 'aplikasinya']","['moga', 'aplikasi']"
+Kenapa sertifikat vaksi saya bisa hilang Supirman. Tgl.lahir.11.2.1981 bondowoso,"['sertifikat', 'hilang']","['sertifikat', 'hilang']"
+Sangat membantu,['membantu'],['bantu']
+Nama sodri alamat roworejo suoh lampung barat,"['nama', 'alamat']","['nama', 'alamat']"
+Sangat berguna,['berguna'],['guna']
+fitur fitur yg lengkap,"['fitur', 'fitur', 'lengkap']","['fitur', 'fitur', 'lengkap']"
+lemot ceck sertifikat vaksin tidak bisa²,"['sertifikat', 'vaksin']","['sertifikat', 'vaksin']"
+Kenapa sekarang susah banget ya aplikasinya gagal terus,"['susah', 'aplikasinya', 'gagal']","['susah', 'aplikasi', 'gagal']"
+Sangst berguna,['berguna'],['guna']
+Bagus,['bagus'],['bagus']
+Mantap,['mantap'],['mantap']
+Aplikasi lawak lawak,['aplikasi'],['aplikasi']
+Alhamdulillah mantap,['mantap'],['mantap']
+"Kualitasnya mohon d tingkatkn,tidak lemot...","['kualitasnya', 'mohon']","['kualitas', 'mohon']"
+"Tolong diperbaharui sinkronkan aplikasi dengan pihak puskesmas masalah lokasi vaksin,diaplikasi untuk vaksin az ada tertera tapi pas datang ke puskesmas ga ada ,kok bisa ?","['tolong', 'diperbaharui', 'sinkronkan', 'aplikasi', 'puskesmas', 'lokasi', 'vaksin', 'puskesmas']","['tolong', 'baharu', 'sinkron', 'aplikasi', 'puskesmas', 'lokasi', 'vaksin', 'puskesmas']"
+Bagus,['bagus'],['bagus']
+Sangat bermanfaat.,['bermanfaat'],['manfaat']
+Aplikasi eror,['aplikasi'],['aplikasi']
+Mantap👍,['mantap'],['mantap']
+"Aplikasi lemot, download baru mau klaim surat vaksin capca nya salah mulu, padahal bener, saya harap perbaiki rules nya","['aplikasi', 'klaim', 'surat', 'vaksin', 'salah', 'harap', 'perbaiki']","['aplikasi', 'klaim', 'surat', 'vaksin', 'salah', 'harap', 'baik']"
+apliasi ko engkk bisa kebuka ada apa lagi ini mau liat serifikat engkk bisa dama sekali..,['kebuka'],['buka']
+Cetak kartu vaksin tetap tidak bisa.... padahal tgl vaksin sama vaksinasinya benar... kenapa ya... update yang baru tetap,"['cetak', 'kartu', 'vaksin', 'vaksin', 'vaksinasinya']","['cetak', 'kartu', 'vaksin', 'vaksin', 'vaksinasi']"
+Kurang bagus klo update ngulng lgi msukin data Trus dhh di masukin data nya tidak valid GC jelass,"['bagus', 'data', 'masukin', 'data', 'valid']","['bagus', 'data', 'masukin', 'data', 'valid']"
+ribet,['ribet'],['ribet']
+payah,['payah'],['payah']
+"Ini knapa yah,ko apk nya ga bisa di download,padahal sinyal bagus,isi kuota juga masih banyak,tolong di perbarui yah yg hak🙏","['sinyal', 'kuota', 'perbarui']","['sinyal', 'kuota', 'baru']"
+Aplikasi nya buruk,"['aplikasi', 'buruk']","['aplikasi', 'buruk']"
+Sangat bagus,['bagus'],['bagus']
+Di update malah sertifikat vaksin ga muncul kosong,"['sertifikat', 'vaksin', 'muncul', 'kosong']","['sertifikat', 'vaksin', 'muncul', 'kosong']"
+Tambah sini tambah ribet,['ribet'],['ribet']
+Bagus,['bagus'],['bagus']
+Gimana si d jaman udah secanggi ini Kok menu tanggal nya bikin susah... Gimana org yg lahir THN 50 coba bayangkan ...bikin kita kesel..,"['menu', 'tanggal', 'susah', 'lahir', 'coba', 'bayangkan']","['menu', 'tanggal', 'susah', 'lahir', 'coba', 'bayang']"
+Mantap kak,['mantap'],['mantap']
+"Percuma...downnload, melihat sertifikat vaksin saja tidak bisa","['sertifikat', 'vaksin']","['sertifikat', 'vaksin']"
+Mantap,['mantap'],['mantap']
+Sangat berguna,['berguna'],['guna']
+7⅞6y,['⅞y'],['y']
+"Aplikasi terlalu banyak blank, padahal kondisi hape normal","['aplikasi', 'kondisi', 'normal']","['aplikasi', 'kondisi', 'normal']"
+Lebih lengkap,['lengkap'],['lengkap']
+Bagus,['bagus'],['bagus']
+"Claim sertifikat , terus terusan ""FULL NAME NOT MATCH"" Udah sesuai semua gitu aja tiap hari ..",['sertifikat'],['sertifikat']
+Buruk,['buruk'],['buruk']
+Suka,['suka'],['suka']
+Kaga jelas gua kga pernah swab tapi kuning,"['swab', 'kuning']","['swab', 'kuning']"
+sangat bermanfaat,['bermanfaat'],['manfaat']
+Alhamdulilah bagus lancar dan mudah di peergunakan👍,"['bagus', 'lancar', 'mudah']","['bagus', 'lancar', 'mudah']"
+Nomor NIK selalu dibilang tidak sesuai nama di KTP pdhl sudah benar. Alhasil tidak bisa scan di tempat publik,"['dibilang', 'nama', 'publik']","['bilang', 'nama', 'publik']"
+"Kok aku gak bisa2 ya masuk .. pas masuk selalu ada pemberitahuan buat login ulang pas login ulang udah masuk begitu lagi ada pemberitahuan lagi .. ini kenapa si jadi bingung , ga bisa dipake jadinya","['masuk', 'masuk', 'pemberitahuan', 'ulang', 'ulang', 'masuk', 'pemberitahuan', 'bingung']","['masuk', 'masuk', 'pemberitahuan', 'ulang', 'ulang', 'masuk', 'pemberitahuan', 'bingung']"
+Baik dan aman,['aman'],['aman']
+Baik dan profesional,['profesional'],['profesional']
+Top,['top'],['top']
+Mohon lebih di permudah penggunaan nya. Terlalu ribet,"['mohon', 'permudah', 'penggunaan', 'ribet']","['mohon', 'mudah', 'guna', 'ribet']"
+Sangat bermanfaat,['bermanfaat'],['manfaat']
+"Apa sih maumu, dikit dikit update...dikit dikit update... Bosan guueeeeeeeeee",['bosan'],['bosan']
+Baik bagus,['bagus'],['bagus']
+Aplikasi yg wajib di miliki kita sebagai warga indonesia....,"['aplikasi', 'wajib', 'miliki', 'warga', 'indonesia']","['aplikasi', 'wajib', 'milik', 'warga', 'indonesia']"
+Mantap,['mantap'],['mantap']
+Pengalaman saya vaksin 3 kedinginan menggigil mulai vaksin jam 2 siang sore jam 5 kedinginan tidak bisa kena air (mandi),"['pengalaman', 'vaksin', 'kedinginan', 'menggigil', 'vaksin', 'jam', 'siang', 'sore', 'jam', 'kedinginan', 'air', 'mandi']","['alam', 'vaksin', 'dingin', 'gigil', 'vaksin', 'jam', 'siang', 'sore', 'jam', 'dingin', 'air', 'mandi']"
+Bolak balik udate tp data kita aman ga ? Chuakss,"['data', 'aman']","['data', 'aman']"
+Sertfikat vaksin 1.2.3,['vaksin'],['vaksin']
+Sanģat membantu.,"['sanģat', 'membantu']","['san at', 'bantu']"
+Mantap,['mantap'],['mantap']
+bagus sangat membantu sekali,"['bagus', 'membantu']","['bagus', 'bantu']"
+Sertifikat vaksin kedua tidak muncul...sudah lapor tetap tidak muncul.,"['sertifikat', 'vaksin', 'lapor', 'muncul']","['sertifikat', 'vaksin', 'lapor', 'muncul']"
+"Aplikasi apa ini sudah daftar login masuk selalu ada pemberitahuan sesi anda telah habis mohon login ulang terus menerus padahal mau lihat hasil vaksinasi dosis ke-2 tapi tidak bisa terbuka, Buruk!","['aplikasi', 'daftar', 'masuk', 'pemberitahuan', 'sesi', 'habis', 'mohon', 'ulang', 'menerus', 'lihat', 'hasil', 'vaksinasi', 'dosis', 'terbuka', 'buruk']","['aplikasi', 'daftar', 'masuk', 'pemberitahuan', 'sesi', 'habis', 'mohon', 'ulang', 'terus', 'lihat', 'hasil', 'vaksinasi', 'dosis', 'buka', 'buruk']"
+Paling lengkap aplikasi ini,"['lengkap', 'aplikasi']","['lengkap', 'aplikasi']"
+Keren. Tingkatkan,"['keren', 'tingkatkan']","['keren', 'tingkat']"
+Alkhamdulillah tertolong baget,['tertolong'],['tolong']
+Harapan saya semoga dgn mendisiplinkan masyarakat semakin berkurang bahkan hilang virus covid 19 tsb. Tks,"['harapan', 'semoga', 'mendisiplinkan', 'masyarakat', 'berkurang', 'hilang', 'virus', 'covid']","['harap', 'moga', 'disiplin', 'masyarakat', 'kurang', 'hilang', 'virus', 'covid']"
+Sangat Membantu hasil yg sangat Cepat,"['membantu', 'hasil', 'cepat']","['bantu', 'hasil', 'cepat']"
+"Kalu ngisi tanggal nya seharian baru selesai, bagaimana kalau orang lahirnya tahun 1, satu bulan baru selesai ngisi tanggal aja.","['tanggal', 'seharian', 'selesai', 'lahirnya', 'selesai', 'tanggal']","['tanggal', 'hari', 'selesai', 'lahir', 'selesai', 'tanggal']"
+Mantaps data vaksin,"['data', 'vaksin']","['data', 'vaksin']"
+Gak jelas abis pembaruan LAWAK,['pembaruan'],['baru']
+Semangat dev.,['semangat'],['semangat']
+Gangguan??,['gangguan'],['ganggu']
+Sangat membantu dan mudah digunakan,"['membantu', 'mudah']","['bantu', 'mudah']"
+Sangat baik dan membantu,['membantu'],['bantu']
+Bermanfaat,['bermanfaat'],['manfaat']
+Jaga kesehatan,"['jaga', 'kesehatan']","['jaga', 'sehat']"
+Informasi yg disampaikan sdh sesuai dg harapan,"['informasi', 'harapan']","['informasi', 'harap']"
+Bagus banget,['bagus'],['bagus']
+Pembaharuan berkali2...pussing,['pembaharuan'],['baharu']
+Bagus,['bagus'],['bagus']
+"Jelek, gajelas minta di update stlh di-update FC trus",['jelek'],['jelek']
+"Perangkat ini,Agak ribet bagi yg awam aja. wslm.","['perangkat', 'ribet']","['perangkat', 'ribet']"
+sangat membantu,['membantu'],['bantu']
+Sangat membantu......,['membantu'],['bantu']
+Cukup membantu,['membantu'],['bantu']
+Bagus,['bagus'],['bagus']
+"aplikasi peduli lindungi mantap sukses selalu utk aplikasi,y","['aplikasi', 'peduli', 'lindungi', 'mantap', 'sukses']","['aplikasi', 'peduli', 'lindung', 'mantap', 'sukses']"
+Mantap. Jangan terlalu bnyak di perbaharùi.,"['mantap', 'perbaharùi']","['mantap', 'bahar i']"
+Aplikasi bangke,['aplikasi'],['aplikasi']
+Knp hrus perbarui,['perbarui'],['baru']
+Cukup lumayan,['lumayan'],['lumayan']
+"Sampah, perbaruan terus, tapi sama aja","['sampah', 'perbaruan']","['sampah', 'baru']"
+"Jagalah data KAMI,, jika tidak dijaga, maka hati2 dengan negeri abadi(akhirat)","['jagalah', 'data', 'dijaga', 'hati', 'negeri']","['jaga', 'data', 'jaga', 'hati', 'negeri']"
+aplikasinya sangat bagus berguna,"['aplikasinya', 'bagus', 'berguna']","['aplikasi', 'bagus', 'guna']"
+aplikasi pemaksaan !,"['aplikasi', 'pemaksaan']","['aplikasi', 'paksa']"
+Aplikasi yg tdk bermanfaat. Menyusahkan bnyk orang,"['aplikasi', 'bermanfaat', 'menyusahkan']","['aplikasi', 'manfaat', 'susah']"
+Ok mantap,['mantap'],['mantap']
+Perbarui nya maksa mulu,"['perbarui', 'maksa']","['baru', 'maksa']"
+Mantap,['mantap'],['mantap']
+Sangat bagus apk ini thank ya admin....,['bagus'],['bagus']
+Lebih enak mlht kondisi zaman skrng bnyk penyakit jd bs kita mlht dan menghindar dr penyakit mnpn,"['enak', 'kondisi', 'zaman', 'penyakit', 'menghindar', 'penyakit']","['enak', 'kondisi', 'zaman', 'sakit', 'hindar', 'sakit']"
+Perjalanan terasa nyaman.,"['perjalanan', 'nyaman']","['jalan', 'nyaman']"
+Susah mndonlot,['susah'],['susah']
+Ok sangat terbantu,['terbantu'],['bantu']
+"Setelah update ,Cek Sertifikat vaksin layar putih bersih.","['sertifikat', 'vaksin', 'layar', 'putih', 'bersih']","['sertifikat', 'vaksin', 'layar', 'putih', 'bersih']"
+Bikin aplikasi aja nggak becusss tolol amattt,['aplikasi'],['aplikasi']
+Gabisa masukk koneksi tidak stabil mulu tulisannyaaaa,"['koneksi', 'stabil']","['koneksi', 'stabil']"
+Aplicasi cari duit yg di urusin corona terus. Bukan ekonomi maju tapi makin sulit cari makan. Makin hancur pemerintahan sekarang. Semua serba mahal. Bbm naik.,"['cari', 'duit', 'corona', 'ekonomi', 'maju', 'sulit', 'cari', 'makan', 'hancur', 'pemerintahan', 'serba', 'mahal']","['cari', 'duit', 'corona', 'ekonomi', 'maju', 'sulit', 'cari', 'makan', 'hancur', 'perintah', 'serba', 'mahal']"
+Bagus sangat membantu,"['bagus', 'membantu']","['bagus', 'bantu']"
+"Aplikasi bodoh .. Udh daftar semuanya , Giliran Udh masuk ke apk nya langsung kluar...","['aplikasi', 'bodoh', 'daftar', 'giliran', 'masuk', 'langsung']","['aplikasi', 'bodoh', 'daftar', 'gilir', 'masuk', 'langsung']"
+Ribet,['ribet'],['ribet']
+"Kenapa setelah daftar, dan pas login keluar notif ""sesi habis, silakan login kembali"" . Dan pada saat coba untuk login ulang lagi, tetap keluar notif itu lagi . Minta solusi nya dong","['daftar', 'sesi', 'habis', 'silakan', 'coba', 'ulang', 'solusi']","['daftar', 'sesi', 'habis', 'sila', 'coba', 'ulang', 'solusi']"
+Lancar,['lancar'],['lancar']
+Kepengen banget diliatin ke develover apk ini supaya tau langsung dimana sering error'a. Jangan bisa'a cuma minta maaf kasi tau ini itu padahal ga ada solusi yg tepat.,"['langsung', 'dimana', 'maaf', 'solusi']","['langsung', 'mana', 'maaf', 'solusi']"
+Untuk update aplikasi lambat,"['aplikasi', 'lambat']","['aplikasi', 'lambat']"
+Membantu,['membantu'],['bantu']
+Kenapa sih harus maksa perbaharui.. Setiap klik tidak perbaharui. Selalu keluar..,"['maksa', 'perbaharui', 'klik', 'perbaharui']","['maksa', 'baharu', 'klik', 'baharu']"
+Sangat bagus dan pemting,['bagus'],['bagus']
+"Padahal udah daftar, udh tinggal pakai tapi pemberitahuan di halaman awal selalu ""sesi anda telah habis, silahkan melakukan log in ulang"" kenapa ya? Tolong segera diperbaiki!!","['daftar', 'tinggal', 'pakai', 'pemberitahuan', 'halaman', 'sesi', 'habis', 'silahkan', 'ulang', 'tolong', 'diperbaiki']","['daftar', 'tinggal', 'pakai', 'pemberitahuan', 'halaman', 'sesi', 'habis', 'silah', 'ulang', 'tolong', 'baik']"
+Mintanya di update terus... Tapi sertifikat vaksin GK bisa di buka Mulu klo abis update....,"['mintanya', 'sertifikat', 'vaksin', 'buka']","['minta', 'sertifikat', 'vaksin', 'buka']"
+ini kenapa sesi anda telah habis terus sih gajelas logind berkali kali sama aja tetep sesi anda telah habis silahkan logind ulang,"['sesi', 'habis', 'berkali', 'sesi', 'habis', 'silahkan', 'ulang']","['sesi', 'habis', 'kali', 'sesi', 'habis', 'silah', 'ulang']"
+Aplikasinya bagus banget bisa menbantu nyari imfo tentang kesehatn,"['aplikasinya', 'bagus']","['aplikasi', 'bagus']"
+Ko Jadi Eror gini nya data setifikasi engak bisa kebuka sebagian jadi Putih Semua,"['data', 'kebuka', 'putih']","['data', 'buka', 'putih']"
+"Capek banget sama aplikasi ini , minta perbaharui mulu. Loading nya lama bngt pula yaAllah","['aplikasi', 'perbaharui']","['aplikasi', 'baharu']"
+"Tolong jangan kebanyakan upgrade, ribetin yg hp nya kentang kaya saya ini -_-",['tolong'],['tolong']
+Pedulilindungi emang top,"['pedulilindungi', 'top']","['pedulilindungi', 'top']"
+Mantap,['mantap'],['mantap']
+"Benerin dl kekurangannya baru sy kasi 5 bintang,,, tiap cek sertifikat selalu stack layar putih...","['kekurangannya', 'bintang', 'sertifikat', 'layar', 'putih']","['kurang', 'bintang', 'sertifikat', 'layar', 'putih']"
+Payah. Vaksin ke 2 sertifikat tidak muncul padahal sudah vaksin jadi ngulang vaksin pertama lagi 3x,"['payah', 'vaksin', 'sertifikat', 'muncul', 'vaksin', 'vaksin']","['payah', 'vaksin', 'sertifikat', 'muncul', 'vaksin', 'vaksin']"
+"Aplikasinya menyusahkan , udah daftar di suruh login ulang , alasanya sesi anda telah habis mohon login ulang , idah login ulang pun gitu gitu terus, menyusahkan","['aplikasinya', 'menyusahkan', 'daftar', 'suruh', 'ulang', 'sesi', 'habis', 'mohon', 'ulang', 'ulang', 'menyusahkan']","['aplikasi', 'susah', 'daftar', 'suruh', 'ulang', 'sesi', 'habis', 'mohon', 'ulang', 'ulang', 'susah']"
+Sangat membantu buat kami dan selalu gampang keluar masuk moll dan apartemen,"['membantu', 'gampang', 'masuk']","['bantu', 'gampang', 'masuk']"
+Sangat jelek,['jelek'],['jelek']
+Mantap,['mantap'],['mantap']
+Gimana mau ngecek klw setiap masuk login terus. Waktunya cuma 2menit aj. Tolonglah selagi di butuhkan sangat tidak bisa di gunakan,"['masuk', 'menit', 'tolonglah', 'butuhkan']","['masuk', 'menit', 'tolong', 'butuh']"
+Bisa masuk mall Yeng penting hahhaah,['masuk'],['masuk']
+Aplikasi yg memaksa untuk update . Sampah sekali,"['aplikasi', 'memaksa', 'sampah']","['aplikasi', 'paksa', 'sampah']"
+Sangat membantu,['membantu'],['bantu']
+Saya sudah download tapi tidak bisa masuk ke aplikasi 😭 mohon di perbaiki aplikasinya,"['masuk', 'aplikasi', 'mohon', 'perbaiki', 'aplikasinya']","['masuk', 'aplikasi', 'mohon', 'baik', 'aplikasi']"
+Berguna dalam perjalanan,"['berguna', 'perjalanan']","['guna', 'jalan']"
+"Aplikasi koplok, apa harus setiap waktu di perbarui,,, kalo ada bintang yg lebih rendah dari satu, saya kasih itu","['aplikasi', 'perbarui', 'bintang', 'rendah', 'kasih']","['aplikasi', 'baru', 'bintang', 'rendah', 'kasih']"
+Jelek aplikasi nya,"['jelek', 'aplikasi']","['jelek', 'aplikasi']"
+Ko Pas Login bacaan Nya sesi anda telah habis,"['sesi', 'habis']","['sesi', 'habis']"
+Mantap,['mantap'],['mantap']
+"Kenapa waktu login selalu muncul tulisan sesi anda telah habis silahkan login ulang, setiap diulang login pasti muncul begitu terus ?tolong solusinya !","['muncul', 'tulisan', 'sesi', 'habis', 'silahkan', 'ulang', 'diulang', 'muncul', 'tolong', 'solusinya']","['muncul', 'tulis', 'sesi', 'habis', 'silah', 'ulang', 'ulang', 'muncul', 'tolong', 'solusi']"
+"Abis download, daftar selalu ada info sesi login habis, silakan login ulang. Setiap abis coba ulang selalu ada info yg sama. Coba smp lbh dr 10x, diinfokan sulakan coba 3 jam lg. Ga ada aplikasi yg lbh simple & lbh baik dr ini ya? Kok jd nyusahin yaa..","['daftar', 'info', 'sesi', 'habis', 'silakan', 'ulang', 'coba', 'ulang', 'info', 'coba', 'diinfokan', 'coba', 'jam', 'aplikasi']","['daftar', 'info', 'sesi', 'habis', 'sila', 'ulang', 'coba', 'ulang', 'info', 'coba', 'info', 'coba', 'jam', 'aplikasi']"
+Sudah bagus aplikasi nya tapi kalau di daftar nggak bisa klaim apalagi tgl lahir klw di cari lama banget..mohon dibuat perubahannya.,"['bagus', 'aplikasi', 'daftar', 'klaim', 'lahir', 'cari', 'perubahannya']","['bagus', 'aplikasi', 'daftar', 'klaim', 'lahir', 'cari', 'ubah']"
+Ko sertifikat saya hilang lucu banget udah vaksin 2 kali,"['sertifikat', 'hilang', 'lucu', 'vaksin']","['sertifikat', 'hilang', 'lucu', 'vaksin']"
+Dalam Hidup selalu disyukuri Apa yang ada,"['hidup', 'disyukuri']","['hidup', 'syukur']"
+bagus,['bagus'],['bagus']
+Mantap,['mantap'],['mantap']
+"Dear pengelolla, please ini aplikasi jangan sering² minta diupdate dong, kadang suka panic attack kalo lg diluar dan dia minta diupdate sementara kita mau buru² chekin, jgn bikin org panik mulu, tolong banget ini mah 🙏","['aplikasi', 'suka', 'diluar', 'panik', 'tolong']","['aplikasi', 'suka', 'luar', 'panik', 'tolong']"
+duh abis diupdate malah ga bisa kebuka!!!,['kebuka'],['buka']
+Terbaik,['terbaik'],['baik']
+"ini kenapa ya,udh di daftar tp gk bisa log in,sllu muncul sesi anda telah berakhir,log in ulang,udah log tetap mncul kata2 itu,udh di hapus unduh lg tetap gk bisa,jd gmna ini","['daftar', 'muncul', 'sesi', 'hapus', 'unduh']","['daftar', 'muncul', 'sesi', 'hapus', 'unduh']"
+Mantap,['mantap'],['mantap']
+Login susah,['susah'],['susah']
+Gak bisa daftar,['daftar'],['daftar']
+"aplikasi kont.. bikin emosi,masa tiap login waktu sesi habis. suruh login ulang kyk gitu lg keluarnya. klo ga niat bikin aplikasi gosah bikin","['aplikasi', 'sesi', 'habis', 'suruh', 'ulang', 'keluarnya', 'niat', 'aplikasi']","['aplikasi', 'sesi', 'habis', 'suruh', 'ulang', 'keluar', 'niat', 'aplikasi']"
